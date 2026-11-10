@@ -33,6 +33,7 @@ python run_experiment.py --method PARD --calibration <calibration.json> --manife
 - `literature_baselines/`：5 种对比方法的边缘适配。所有方法共用同一执行器、最大批大小 10 与同一离线标定，只有调度策略不同。
 - `tools/run_live_batch.py`：启动一次真实 GPU 运行；`tools/analyze_live_batch.py`：运行结束后离线计算按时正确率等指标。
 - `config/`、`evidence/calibration/`：参数与离线标定（离线标定只用于冷启动和对比方法）。
+- `evidence/evaluation_private_labels.json`：评测图像的真实标签，只由 `live_batch_statistics.py` 在运行结束后离线统计正确率时读取，在线调度不读取。
 - 根目录中文件名带 `t011`、`t012`、`v8`、`v20`、`v24` 的模块是执行器早期版本留下的公共部件（模型加载、质量路由、份额记分等），被上述文件导入，因此保留。
 
 ## 运行环境
