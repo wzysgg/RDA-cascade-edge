@@ -1,0 +1,5229 @@
+{
+  "evaluation_source_count": 270,
+  "calibration_development_sources": 20,
+  "rows": [
+    {
+      "bank_index": 0,
+      "source": "0046405b60f2f012edc86c68264e839d574b20bf77777df10cc61acb763de3fa",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 1,
+      "source": "0327d255906525e9e803f7bc308c5392351bf2ee7dbe384f38ffa84c9bafcd4e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 2,
+      "source": "0391916cc44a7dbfebd764dd85759974cd636da8208b3a3a47df2d73538ee6fb",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 3,
+      "source": "03b7774e99ebcf4349bd01a904bbb61d9c89427972bb8a70acc910c6942a41bf",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 4,
+      "source": "044e6041678c98a6ea41fdb7da1eadd75fd29ced0c8f538b43a663d42910f10b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 5,
+      "source": "06811a835826c47ad78e91e90cb758f6334f348d21765375b2ce9146be1309b4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 6,
+      "source": "082cb141198cdc60879e15f3fa0765e99554ea4df0e7c7d6768eea189582c3c2",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 7,
+      "source": "0aa52d34c0e0baf7e5288f54cb48307c5c76492081ba736cbbdea1edfb94c47b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 8,
+      "source": "0c2f7d48bd413351cc0c50b71e806f82d1c54fcee9db74dc99aac2fb927941bc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 9,
+      "source": "0ccace87e701d4a71a88a4d2e4c9a81108689423739381751b8288b59856f4ca",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 10,
+      "source": "0d04cbafb4f85f684c20c7c2121d29b89f259d1e90c7c35acc6178e86dc41833",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 11,
+      "source": "0d578ed6ce0ca32f08ab71678389ee38ef8f3da4f1dcc9db287f9388c2eb7a39",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 12,
+      "source": "0e25a596a7ddcb6b78b1f608c01a9ab168748556ee87e7feb2293ce3de87cd78",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 13,
+      "source": "0eb6e04979f48f5e325633dee54162a4a724f5fe6d4ffca9edff000917b615ca",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 14,
+      "source": "0f1d2f918fd93652f92a25de19f74324cfc879a77e39e5b911eb30fc3a82a75d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 15,
+      "source": "0f30ad864afb086b06c24e27574fb0ebe3412b58ee8173ece1d047eef34116d8",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 16,
+      "source": "0ffe135744b30b96bb0ced670e532d08473f2462177d8437aa6678b4910457e2",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 17,
+      "source": "110870b21a74fb75e099f5aee3b5efc0eded120128ef037b975829ec3505e8c6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 18,
+      "source": "121102528272c406ef04d6ed35dc09445581465c39bb3280d15dc9ef837b1fa0",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 19,
+      "source": "12364ff0521a417eb27bb5504a6698849a5e45810d5a60055368d69034c6122c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 20,
+      "source": "1318c0d9b059a08b3867d40ee1c18cd46adcac3b69d1790d4095995d311f8917",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 21,
+      "source": "14e65853add379636cb1daceda84748089b203bbc6b9af4bca8ec5e6860a5853",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 22,
+      "source": "150ffc419c103081f8c192b60d27d5019512633184d45cc78cc7e8f4413b3b0b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 23,
+      "source": "167b7a8f8c23757c1ae2fd6966055d444eca638520cfb6f302b7d7abb76abac3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 24,
+      "source": "1708c782c65037a4e1002c179ec593782fcd4f0b086a5cac0ffd573ef58dc7a4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 25,
+      "source": "17297ed59542a7be793813baf3c7441e2f74e5f79636101c669171e91f0e927e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 26,
+      "source": "18601fce531059a2faee79d8b1d9881964b1fd486c837c99fc0bb970bcb9d7ad",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 27,
+      "source": "1a7d1dbbb35ef9f8e44672cac1cf2018b00f61fd7547c3bd0283c7336fc7d9f7",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 28,
+      "source": "1a94db598829589f75908a2dffd07030d76f3304606dfe7794e7204926384949",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 29,
+      "source": "1d7ffba898128163002177abf22766d368700f6504f4273db2481835d247bd14",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 30,
+      "source": "1e21cc5c368d9e015223dbac4771343d8acbb2b76c2ced5e49a319e1b1bb3f31",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 31,
+      "source": "1faede96e2c51b32425dd0e77867e9b3b790ab0724bcd763cc1f4ea331afac5c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 32,
+      "source": "20e375fe90ecf726ed1d482c0db90f7aaf7b166f595a65b7a592cc38a401216c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 33,
+      "source": "23d057d6150dddcf0e0a83e75d2fee86af4a52ce801e454539301431ad2d12fe",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 34,
+      "source": "254855329c0254463fcfd0a155a644bdf2b955fda0e338ab7b1ce9cfb4bacf26",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 35,
+      "source": "2599551f47cdb8515d126969fe26a968f9519bf6a2ebeb7978fbeeddd0dd9300",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 36,
+      "source": "2686f354cee5cbdbde6d4421577055f26a60eb8c1d853f7841dd12cb41d49b33",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 37,
+      "source": "26a96e68851c910ba49738157d5e5ac8b5ab6c1fe776de2647f443e8e36f88d7",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 38,
+      "source": "297ec1a0a369123845e17c413587e5ca71563008ceb91c5355162f3b9d7c5938",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 39,
+      "source": "2b8c862c81366fe5c8e7d3600216f7d5b80c1b10aa55b1540d18d5eb60461ccc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 40,
+      "source": "2cc88396c55f661fb52bf4cd17c6175a25c079596352986cc030cdb46c77f3a6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 41,
+      "source": "2dc3453e4d6fbfa651d2625258f5b6bfbf234b13c294f82bc66b39b75c0318e4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 42,
+      "source": "2dc77674ad9a14b32fcad2c9405d8d2d92fdd8b3ff7b98ada46a6f1558cd80db",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 43,
+      "source": "2ecfe579cfe9d6105a160f6d005ca6bcaa3cc6b04131ece0c909a50803a33ad0",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 44,
+      "source": "31b7482b422c3941ac6a11ab1b2760253cd8961701b7a012035522cbea98c356",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 45,
+      "source": "31fe70de9d9bd5a348f84e7523682106f3cbac1a8fe2603421ae4792c98f1623",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 46,
+      "source": "3280a9e88f44688005a0c7b4f3ae7b8593e2791f8168568dd63a229de7598dcf",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 47,
+      "source": "35177212789df9229865a2c8a025e2e68a41f248bfe9ee979360f8fe8dc856c2",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 48,
+      "source": "3554340b5a48b23c97a194f7b7bf1776a625cc789d77a0b835ad07052b679eda",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 49,
+      "source": "358892669ce9249d65eaaf16ef33c84d31f7c32e355f4acf23033b3b15c995fe",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 50,
+      "source": "367075d6695862c4493a7d39213ed66e50845e9ff3611a8212a2745ac2a8f1ad",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 51,
+      "source": "369d4bee8a232c19fb5ca45a2289822dcc0b1f1fd575fd7db35a9919d7d78f3d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 52,
+      "source": "36aa104a77f3477c7d6e0ec5b9cde40ed9d43dd1afd363718eef4a2f8e272005",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 53,
+      "source": "36f89d12c0c0226f5da438c2804a5ccd5505e6810e2daf7fb044dafd409aca5d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 54,
+      "source": "3731f27e6665dbb752c8a1a3417f0b8eb59e952a934c98e015563db6be9c5afc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 55,
+      "source": "377bc7dd25075830dffae3e80088ad088eb10e9e9ab6f341faf4b999752cf907",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 56,
+      "source": "38d33f3610b6897a49b7f2277689fc1a92619f25d621c31808decb08848ff2f1",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 57,
+      "source": "38e21661768ed76f443f3ecfcfc009dfa3297870e30731bb1c3a16ee6babfabe",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 58,
+      "source": "391de7caa6797b40467b1274be7b3b9241a79912813372ed40c061686dca3a95",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 59,
+      "source": "399c512883d199635f6233e27e7a7a3d5bed3eb7aab15083dc5bf9f265d2baa6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 60,
+      "source": "39b0022061709787cf48658c6fb8dd15731e66c4610fe9d75712366d74a2a7ae",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 61,
+      "source": "3a3ef9ad75e44d1feafeb60e4e8054e04f226db4f45c8598d5ed75216878e14d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 62,
+      "source": "3bcac890eee84445a798a20289599d44e664300658111da743a4073900a95a41",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 63,
+      "source": "3c7de7e24fbb1a48d6a302b7f81a1939560708b244193706851e985daa27cfe8",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 64,
+      "source": "3ea22fcbc9559df0c49efd5c847dc1b8e2bac974845996bcfdca20013aa22572",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 65,
+      "source": "421ac2ff62979abd1611571dabdbf69ca673add5f2802c550ef5da347ef4a012",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 66,
+      "source": "455b206ff2cf9f9db1ce0e10e8f98b7c0f63a5a7490843ccab05d9e664915b24",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 67,
+      "source": "476f486823c97394604a832898feebb5f74eb94245eb931e16e43f9ef5e9077c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 68,
+      "source": "484c528e94c1ca590ce089553358cf9256cad3191427c97c33e0f5ccc8dbe16e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 69,
+      "source": "4b95e1f850b1cf16c6117525ffee5cd0669bd8211ef9ad58507d7b3f3c423b9a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 70,
+      "source": "4c209b20eb9a0cf81dd831e226daa7521b348412956749b0859267b021b46508",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 71,
+      "source": "500c46e2f5d7065d8c492b0cfb36c3ba77a85a744079bf6453dfc85e02b97a3c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 72,
+      "source": "5110aff87b7391929ab30ffbd01dc57c9ce8f4576f7257db6ebb541d2b6053ce",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 73,
+      "source": "51179378d603a639c6a7158107977d2e58c7072c1be248366f3debde1b5066cc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 74,
+      "source": "5261d0b7ee9c4ca06e32cb1b4888d139beb9acbd009ac4eadcb859dda106b5ac",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 75,
+      "source": "5321e25088da9adf11b3455da3a3435ab7a81a5302c46fdb987f6521e65f4f07",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 76,
+      "source": "53b23674f9756ffbee2d8e24d622ab80c797f9380b881734a62d8f8383bd1f49",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 77,
+      "source": "53e7260d78101d4313f81b01e063e47dd3cc8974062ae4bfe8f9966d9136668b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 78,
+      "source": "55073f4ed8e7f803cb1412ad27e998fc4c59ccc5476597114703ee9210cc994f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 79,
+      "source": "5681e8705d15961faea00d3225aacbf31eea774faebf4a0b7df6e5903a107c94",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 80,
+      "source": "568bb30a2536d70ce4be156e2a98825eea9e20c45bd603c06678a07f5c5dfd04",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 81,
+      "source": "56949cdeea9c339621667f8e982efe68a6926cda46fa6c22c14662ac359ec78e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 82,
+      "source": "58e9aec52c45805cab6805931fdeb0c2a07612157dd7085b298be65db55eb093",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 83,
+      "source": "5af42f7b29116f3a377435738a7cada23e573e81998b6a34b1c3f8e137f18dbc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 84,
+      "source": "5cfabcb4e299b09666c2ddd5e586c9f5705fb8c1fb9b628473465722d42cfd43",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 85,
+      "source": "5eb3c30442e000e5cca7fd258ab6ace13428c3693754214790848537aa02858a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 86,
+      "source": "5ef5d6fccd6032f3ca4d2026eb0b98199436f7e280b58e95b5b1a5fff4f2288a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 87,
+      "source": "60fc8a38f90fc137e91ccb6877a0fd38e882f696f8837382615b71ec712e1e70",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 88,
+      "source": "62c8106f8afe8a3e0a3f6ab5245d6384f6f5f216333f1e73e0b5068b43833a7b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 89,
+      "source": "65e9f60b8ed02f4891ae1b7759c57aa2295a67d5d8008aece4dfe6a925dc8c28",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 90,
+      "source": "66abc4550e371062fe3fe5eeb1ad4362dfd3a8cf3e53d568ec8bfd5e772f900e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 91,
+      "source": "671e5f187e7db6b692b2b812ffad0cda7b22d61e008f12cdaf2ca45a099c77ff",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 92,
+      "source": "677cedd6da38cc94bf2fc2d1f002894b9b75297269fb8775ba64c8634339c627",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 93,
+      "source": "68a75502eb09f2fce11bafa903976e6ebd301cf882c9fec5d17b14f8a2f99778",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 94,
+      "source": "6b17042244a90f5fb4c1c95875e3153e136a8def40b32aeeace7b5a50a7c01a6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 95,
+      "source": "6c88492f949b2bcc2dc1ebc282bcafb272b5fa892c236e606ba9bcd6b95319ad",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 96,
+      "source": "6d36474a8491a431c9965b54c53a51538c4bba96752c9af72bd3d82b3f4a85ef",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 97,
+      "source": "6d6bed66ce3e74b682388888f50979c7ab563fdd636651b1e3b16ee4d3be34e7",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 98,
+      "source": "6d73bee0a96f6225aa34bef31b62743b657c1254023eeebf604d7bad83142deb",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 99,
+      "source": "6da2ffbb84b4b3d21754c472d7f5e729958e69bc3ea296a24ed215152c19b62c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 100,
+      "source": "6e501cb64c6075180ec65230eb5d60b98a565532a3c6367efd2bded8f30e8eb3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 101,
+      "source": "6e86fd9aa036ece2f4827477eb4f06973189e59aa1bbd67644dde85ae51cf17f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 102,
+      "source": "6ed3dd061cc183e90d3fe15fa0045855f24e0027a028a1b25750fb530cea0cb1",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 103,
+      "source": "6f4636871b1447810cccee23d7c432d19595069555d9c5af2940a987e6223d78",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 104,
+      "source": "6f92bad92f5ed2e838d27f3ee181301b0125f215eb9bcc856abec4e79973cd44",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 105,
+      "source": "708329b86ab6061f1adc9cd0c71b22b2e80fb88a60b15b799023e00b3e1dc24a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 106,
+      "source": "722df1d6a537db019f7bc0cbf839edda12fa08f9debec9e81e37df0b4496ce65",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 107,
+      "source": "73be4cbaf313e5af3f11d466d8991221e08bd3c9a22ed64f0275a786f1915d42",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 108,
+      "source": "7412eddf9952e8a749c671e67390a5d3554aca259372d8e19d4ff17bc0816905",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 109,
+      "source": "74f80dee68c66b6f73e5c95dbb5e36e35cfe82b6800c13d5153cea1f0dc394fa",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 110,
+      "source": "7512debcf6fc4857fcb2d42326c6787e227e59f819425dfd50dcb2fba37d37cc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 111,
+      "source": "7535f7a4981574e0a021740800c34216eb75540011e3c685694aa5317272fc16",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 112,
+      "source": "75ac452389f59bd725c6bf68f4521ba1471a556d30adbcfb5b29d1fa64fe023e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 113,
+      "source": "75f393a35dd2c29e2703d6693c1b43593718ed6afcf1a9e07a0e86d0c5e0b1a3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 114,
+      "source": "7666107c448d2234f43fcf14541e7bf958d41583e7ca38449f59547e030a5f6c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 115,
+      "source": "767ef7b4c31afd770cd2dfd17341af33ca3eec6a0018ad9cf9ef6c69c13c97a0",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 116,
+      "source": "76f707b0ddcb61796cede17b2af374b1a9f9c3856e214f6190db45a9a7d59a10",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 117,
+      "source": "778fb5214ca3559c563dc5f7e498f51285f45fa4fae0e04db78206b3b9c4304d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 118,
+      "source": "7898fe4fe87f61985faeff0c20476488180dca9545e324ce3710c8ac95d084f9",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 119,
+      "source": "793aa8808f567cd6552258c01904817b28d481c5224cce86c6b78bdd2721d42f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 120,
+      "source": "79bef32f8309a3e38a5c96e56a1e54bfd5057b58d4b000e08a5815a28bcffaef",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 121,
+      "source": "7baa41a3a61051f22e5e99400ae072f8a9a359d41bc47dc6172ec3b76e9f7ca6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 122,
+      "source": "7c0b26e35c50d5fad55665427fa3a87712a9e2ea055d87906c56c146228ae41d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 123,
+      "source": "7c6f323094a3da43bf4664e30bb84691b91ffa9bcaf88b834321062710bceffa",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 124,
+      "source": "7cfad80ed8df45124dce13a24dce66949b774750fe13ab9f3a29ae7ecf32d4ef",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 125,
+      "source": "7d184ad36e7785f3af0eeef6749f8bb23418fd1132b8c14090e351dbde9e9798",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 126,
+      "source": "7df40e532413e8125e874e0d93467862e9b2aeba436d7e78f9fb93419e68a6eb",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 127,
+      "source": "7ee07aebfe8997bd5c57f958e494b9468fd788b10a73a7f390e777e7602f938d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 128,
+      "source": "7f816c8c5d58bab9547b2171ad8a4c68915259cdd4c659573a535cfe716387b4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 129,
+      "source": "7fc724b97720558c8368af9ba71a65c100eb8cf912904d40bebd69498d87c489",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 130,
+      "source": "813fd3fe142c2c6a82a3c4d9f0752f7ea0a12e3c051fbc5c6e47417d3d097a1f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 131,
+      "source": "82b8711bbdbd0339337db43a5964b53a522ba31c8b766941dca9299755c8f190",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 132,
+      "source": "82fb6d832a93ab370a235ad1da788e4c00e869995829f368f4d58225d416b365",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 133,
+      "source": "83242feddda09c84dd7648adf3b58ae9a02eafed278933423ac749f786345abc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 134,
+      "source": "834c71734fc6257e459b03759bdf40a8f010d968f9b051533ae2577f4ae2f403",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 135,
+      "source": "839e441d971b5032b74387b4c6ad73e4a763066ae091e72d34ff2d8f33b5ccda",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 136,
+      "source": "8477e24640fb56d2644a2460b57c3e653e259d8eb768d87d7342983389c5d4fb",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 137,
+      "source": "8709b7a762ebfb915d7500413bbef14db7a3c96aefa729e255fafc97441b7625",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 138,
+      "source": "88ff2263d35206c0152a9569cfd8f41789398ddcc60351bf9b7111f35274b166",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 139,
+      "source": "89526e779b3ef99fe1a115262f58d9ad2e7f0012e62a8f86b59ab7c3f770e2d4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 140,
+      "source": "8a441bf016f67aaa0f21112bfbd35a032f157df1869f5b97154063f527891151",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 141,
+      "source": "8a946044d3d5c1b22cc7990211c01ae53ee48af50e65ffdd426c3cb2d58ebe16",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 142,
+      "source": "8d08c943af8c0783ac007753d6450fd5a5828e129e199d943015f2b45c54be9e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 143,
+      "source": "8f41f3d185b0de0fe9197e70631c7fa148180067ddd8d95e87ca1aa2ecd1807f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 144,
+      "source": "90521f05d4c3c2fc3f15475e8d00a7af52111db2f8884cc8befd9aeb14b661ed",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 145,
+      "source": "90f777c4cf0471e5832ed22f5bd79bfef6be9dcef7f26f5655af2e7b4df91e71",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 146,
+      "source": "90feebb241d179173583a55dcc2a072775de44e067038d60513c6c366d4eeeb3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 147,
+      "source": "92a1d48c1f1b08a495abbc40d999e54f6a2fdb910ecf40cc9675aeb917db3b5e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 148,
+      "source": "93674f451227f71e21513aece38ffbd9de074ff66434bc640c5be7d0e52d5d41",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 149,
+      "source": "93ced17f4532f10811fe84d12c5b7c366e778f5f1cde4da0923be991d10a2305",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 150,
+      "source": "95e4ed37a0b7fbf54e713a9cfc6fc66aa9c3bb5ce170914576ffb125364f6e7b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 151,
+      "source": "9653b4b36b43fd6e4a556e11fce2383dabdabb70ae5793da9177922bbdb4c6e8",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 152,
+      "source": "98a86b64f2ede209013c67f47f6ed288723db2d707d1f7ca0fa00409dd55b2fe",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 153,
+      "source": "99d400c5192164cf65246de5d2c91e54e6a5312655288503487946d573efa0a0",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 154,
+      "source": "9e88d467b31b526f0cf3732264d72af070365a87edfcbcccbe0f9a3845a30974",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 155,
+      "source": "9f0edb4a349a72882d2526d2f77edd7ab85bd594128e1f6596b905f9e0a9d8d6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 156,
+      "source": "9f9d4356fbfc6f750225be8706c3c87c80749db66d5c68edaf43612c936909f2",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 157,
+      "source": "9fddc984d5c02565fd12b248572bed264d11f810f51c15cc071272837db29ed4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 158,
+      "source": "a00621e2838535650cc053346039c394cb920e4166eb08785c68b8cc8e65bbec",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 159,
+      "source": "a55b9e4172cde4c6441feb878a394c202b269bda1e9f4a7a61b41da7ac4fe85d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 160,
+      "source": "a6764f42e7608e539fd3b60c663b8f3bfc7d863fde46b2f41cc1c3dedd92c724",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 161,
+      "source": "a7076ebb0a338b718a02a4428f4e04d614832513d838e23e01449f6377fc0d01",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 162,
+      "source": "a73890705e7a0d3e52254d0aec000ed0307968450e10f860a7b7e45fe9e085db",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 163,
+      "source": "a7848a058d4eb08b6f4faaf3dd44c0a956650205748301236b17426d57097aa6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 164,
+      "source": "a8e91027261d33ad4c2058468f1b0a058fabfa6c29c4abfc1a0c9d42a80fe8f6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 165,
+      "source": "a91fc566e13d3253050d35b898b8ed659905a8268847ef06c1f7733757cb8788",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 166,
+      "source": "a9d5c1daaaeb00a1819b3b9ef87bc8f5fbaabb37e3e2e1320ac344ba61b606ca",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 167,
+      "source": "a9f3ed313d7494096d51b11a7bc6c5165cca735903f3d581f4d0df639572c294",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 168,
+      "source": "aa1149e239a31e679e30cc8b54cb5e7891f110ad1befdf8530cef58a206d4188",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 169,
+      "source": "aa18ffe8e33f56dddfd1b88fd54e89aeeff1983c71b9f325c6baa021320c185c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 170,
+      "source": "aa62a9634b38443e309b0122922048462238f4e45b7ebcb949504da4e054b0b4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 171,
+      "source": "aa7381ffdd6b16a56243d4dd16b4ad62a8aed4e1aeafca9fd1b78aef7f376f83",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 172,
+      "source": "aa7779ddbe6690026ad73c6d12f24f573e5b3be527edc064c10344d5837a8d22",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 173,
+      "source": "aa83932b2073c75a818549dce83101bbaa764b2e705103289a8df4b22e01bc75",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 174,
+      "source": "ab9e9667fd3cd58c3b532936c69b4dbb117d5671334e5bcbaacb3722a22162ea",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 175,
+      "source": "abdec7a1f84a30c28709f0e373a165c912a18f15aa8e7c992d4b5b0314fc0038",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 176,
+      "source": "af626cd84902cd7b4663043a36a81d0a019d954d9607879f6f7aaa96130441c8",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 177,
+      "source": "af9f0321f3acedf982a652f5f2e9310a783d3ec890c80e4228a66646e9afced4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 178,
+      "source": "af9fac336367e2b8b4e7314d428fc1fb3390401a1670787a3419940157727388",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 179,
+      "source": "afb29b73d7fae466b00ad572d37ae5be308ccd91cf57c82309331ea58ebd3fa4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 180,
+      "source": "b08da27dbdb393b157c42e014b712358edfcc210a17b78e8b993ed0e6186f1fd",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 181,
+      "source": "b5856bc3695fba2b9ace3caced3b1c783930b3c24380e8fea8ab079895f75c46",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 182,
+      "source": "b5b5718577b5522fedde36f8e22811226cb305fab86541b391b551068998608c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 183,
+      "source": "b65f1e18d496df96231807c74aab701d680a5d529be56ad97497f6f52443d977",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 184,
+      "source": "b6660efc8a7cc57b7da616766b14c06812254c0422d48bfa0860db753c4f6cdd",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 185,
+      "source": "b6870a0cc504de5913c485b462c538bcc6242771cf4fe3f2cb22ba37cae0483a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 186,
+      "source": "b74f577a82e82a76db9450526b2fc5863ecc761cfb6d243fef8907559711afb5",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 187,
+      "source": "b80f700f2871cde38bff5a8f0c5adee3731e86116b3e4b1e2eadcfaa1966dd3f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 188,
+      "source": "b8f33836036497d5b83075b2bf5a093601ecf13c4c81d35a1f3af008dfe52dc3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 189,
+      "source": "ba221858d8d1a1c17d7eaaa1ac72a33345cc803ba1b96620a576113f7dcabcdc",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 190,
+      "source": "bd202f91ddd89c3727996d411e6330301df47bfbce8627e909dcf5cd3ab12636",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 191,
+      "source": "bda65326f1b3d151f35170e2f1ba61bffc1ee388bc601b55837211071db12d4e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 192,
+      "source": "bdc8d32308a3eaaa7153b16c4ebd6e56ad346377708fedd172da28de464dbee8",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 193,
+      "source": "bdfee0b1201604e89f9ed8953bea9f820375c70335c109fe7a434c326868f9b4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 194,
+      "source": "be507963548917b7dc2379663a1d7fe3daa06cef391b4a7ddc5319dc8bd20e03",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 195,
+      "source": "bebbae671824925d0537d8c3306120c58e1f2dad688fbe8c2057d32ae5eae13d",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 196,
+      "source": "bec8cea242698b86eb179223494c7dba93a12e6e92c673623ce2148edc628b47",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 197,
+      "source": "bff8b23555a6654dd5a240992aee08df5e9b3fe8c688fefa37cf17bc9c2b6a3f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 198,
+      "source": "c1233156b17a5bbaefc9700881b44fb512cc4ba12bf00b8718af00addb34f6b2",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 199,
+      "source": "c138ff00ac535bc21ff492590b04a5c9df13bba39bda6f47dd91cb88d980186e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 200,
+      "source": "c392db16cf6ba4967cde4e61b1f02d64d396b09c4d4a11784fddf940c0a41743",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 201,
+      "source": "c3e8d16676654a022b58559e9879e882476a25c57be200044140b0e08ce73a11",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 202,
+      "source": "c408389639cce8c2da2ba020370457279429b80420e7379bb997392bcafd03d5",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 203,
+      "source": "c4f1027db43a4cc746e12b1dda42f5d1728ecc093ee73bbb2ec8961e4aaa72cb",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 204,
+      "source": "c7b3c5e309632173863586042983ce86c7fe5813d24e1f23d00803ee66436692",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 205,
+      "source": "c81fdfa4f7e457c21bbe7dca824ffcdb602dadf60aa59f6aeaf4ddc71054386c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 206,
+      "source": "cb8db299c4721fe71c11b8e12b8cff93eb0ff2bf4581d3db218f4b2226a18166",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 207,
+      "source": "cc4ce3b9394afa13e4715d4ef0f878fb2982a0b52c5b4b1561e0eff80d6dedcd",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 208,
+      "source": "cc919de8775d5528872dc90d26ef796a64e73bfc04310d1a993455ce7a3a9f39",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 209,
+      "source": "cd2120b467030e47514308711746992fd0834b7d686cc767fdab0a12b0cef562",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 210,
+      "source": "cdb3dc250fecd3608553c3096fd76e9ce844ead8ae3f0be8cd361542c81a980a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 211,
+      "source": "cdb86540a847d39765c21a839855cc7b81fa2c4a8637f77957378dccb011834e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 212,
+      "source": "cf3abc2609997d757cffee43193a1c17b3f17bfd96934e41be168254ffa0770a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 213,
+      "source": "cfa49c7eb0958b57f8eb2f4c63042b188f3290ced92c015e774c8553e8431f3b",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 214,
+      "source": "d1487d000c49a0716fce28609f58883abb52df0618a64878f2fee5d534de4b04",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 215,
+      "source": "d16f1da313957faf235d8b3319b98f23d41395d05fcddf550f692492ade469e1",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 216,
+      "source": "d201e7c39a88ced01e99e541d0f6ba4c7c24ccd5091a8c86973187459146fe88",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 217,
+      "source": "d2332e2fe067d2143cd44ea60dd023bf5311a74617b761eaa197096cbe0479b3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 218,
+      "source": "d24aed54c31d2d10b72e7cc27b0d82ed4eaca0a056143d8c6d43aa860bf09779",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 219,
+      "source": "d2ba33bf399dabc564bd17c2a3b104d832decf6eaf585ae09e3d3a3eec1911d3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 220,
+      "source": "d30fc667041446291f87d08fb7c8d578e5d4d8c01dd69967401da2b039b2f6a6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 221,
+      "source": "d31139e157f9d1b8f7021dac0124019d63847626960bcdc49d98caccd9233e74",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 222,
+      "source": "d47e69763a49d5d5a927a191715710198c5ecb75673ee835d645b8bd71d25e92",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 223,
+      "source": "d526f36419cd66b2269d6ee46f3e18e798ac6dba9657676359566d7268ec666a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 224,
+      "source": "d56e3eb807f29dc2b782b7b59d1daea82e5fcab810256d6b1d88f7993841bce6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 225,
+      "source": "d59af1a5f35ba00a9cfd9ef828b4817d110dde01008cf5132f33b852afb0e9f4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 226,
+      "source": "d5d3daf656fa4d7c7a66cdccbe90b7b1eed94725446f6b228f02620deabeb64a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 227,
+      "source": "d665bb3dd97b6c0b86930a6d78ac060d5acf91e74ffed2c7d06a3d28d6c0625c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 228,
+      "source": "d8ee841afe3d24b39a3f1f5656780b75ce9b1e1b6bb11cb6953a99d0cbaaffde",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 229,
+      "source": "dad964a1298e0e8550c652c2f6cd3dacda7096290117e4f96c499fc62f7e425a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 230,
+      "source": "dbe4aca05a9d06d4a3bd854f5e957943f09d6fc1995c92b4f1022f046dbfe742",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 231,
+      "source": "dd0e2f8a2c6901cc540c53aa7194af40fa2e8ed38a0825608e1b56c846fcf01e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 232,
+      "source": "de6826749f3a7b68e11a2395976c1bf9d818ac21c9920bd160138fd81f711ba6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 233,
+      "source": "df10830ccfd38fff5d9e418be80162e0846ccc33cb6a10e2143a8b2ae4c59e70",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 234,
+      "source": "df2347ec3e9637adcc36294b8a7b18060649129cdf2a7c23eca2ccccce60d227",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 235,
+      "source": "df878735886705a5cf3e8d4024cd8d2729fd16cbb8696a289a7252b1854e7f0a",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 236,
+      "source": "e0161a0bc31d0ddd2dfc780255faf3b92600172bac62383da6f060315a72189e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 237,
+      "source": "e3c440844067a1022cabe8d8ab71283fda70210f94da1394f9296a58ed380ee6",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 238,
+      "source": "e48252b233324d081b482e4986db38a764533dcb1fa07f7a12d3adc9eb65ab88",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 239,
+      "source": "e4bcb2a80023991c71e22dd292b0b159ace79d9bd3f19532085f85fcd47629be",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 240,
+      "source": "e8a366fe396aaaea124716a1baad189f43971bf78b88e4a4c4c8bbd3ceb849a9",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 241,
+      "source": "e928a260968ef82b0767cbb1d3e3115ace8935854db15d712e4b3c49c0c48aec",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 242,
+      "source": "e93030abf5c2b941529e6b105767aa0a6edd92b18c96792a2ef07865c39d7253",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 243,
+      "source": "e98e59bf3ee6869a2f29c25a96f54c99f2aa159b1630595b3073465d26b5f807",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 244,
+      "source": "e9ecee694c4e4f78c234679f04f199bf2711599a59a22efc4b87af4ce7962e7c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 245,
+      "source": "ebbb23464a4c5be52235fd3088e89930c60802de487a1fa1c608bee259a48526",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 246,
+      "source": "ec6211d4c5f7d0f8418890fe2034d8dca7f0657eec769543f57c2b9f18b6b009",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 247,
+      "source": "ed60e7a1a857970c205dd4a58c5290c96cd1fe723559b7928615c869c684d7d8",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 248,
+      "source": "edfda57ed4467e635baeff00654d9774bd2e94483c0e1a28c59b5f7f34240807",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 249,
+      "source": "efa2e345933a082a83e015e77c8a6f478cc33c5a28cc4e46c9e6ce53d3769a73",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 250,
+      "source": "f0162be4de935f4064486990a524a4b7b8a816bc0a39f8fff3ee58034546e9e0",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 251,
+      "source": "f12aea95221e055b3707857a161825be6d9cd40cde27d53107b7009bc8a6a0a4",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 252,
+      "source": "f15af60ae8db80ad345879098107b51cd4b89e1eb225a90a326d71d2be56e915",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 253,
+      "source": "f3c2363177cccfc7bce51d78484f54ae42db54a2ad878b1479c5d0d0e2960872",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 254,
+      "source": "f3fa6a34aecaa1af2e1e31c2359b1d730f450c166377a622ef29f85848c26c54",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 255,
+      "source": "f4fea54ba383909b5e71c25f1d327425d5e102fb4619e590aa94933044d828a1",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 256,
+      "source": "f5491face05957d5c441d52295f15e0d9b917ac2500cd84d8baa0f2d2c39f75f",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 257,
+      "source": "f612a5beb338b77905658e99b54486ec4b76eef3ab30b65798dded7ce44c49b9",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 258,
+      "source": "f8f182527157c5fad4a77848f79231a203f2366ed8cee3eb7d0dee516d3f1143",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 259,
+      "source": "f965707a2b7f4645df819d433fa24ed2e5affcb4e492b6b7154505fbb5136c8c",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 260,
+      "source": "f9875ed804f7a3595505650f60bd511262c904e4ddbdbd9aa4a27450c9237e39",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 261,
+      "source": "f9e12ac424ba0e9d72834084fbfaa1a746b0ce109ac3fe28fde658008aa33b78",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 262,
+      "source": "fab5744932d1ec330661ae33284428e376683c02514119f63c6de5d7e0de8f5e",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 263,
+      "source": "fcbea3daea2af57f5ecc704b6c61ac4c61a7e1e8ed047f8152b24c3c269f79a7",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 264,
+      "source": "fd1f86fe4349e991e98e1b00c1b1aa94088669822cdb30a5c0dfffa5782134c3",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 265,
+      "source": "fe216505917b1c9c31f5925244ff60cda229409dc13f9c4f39f0dccec4e90efd",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 266,
+      "source": "ff6cd63f155b15695324ac6f4c9bc5ca1b9ddc7561c38eef5816bd9b1584ceae",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 267,
+      "source": "ff83258b9529bc80bb6c6114e052611fa238ff45bdc6715087441529c7ebc2ba",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 268,
+      "source": "ffd21c5983d44ff61cccc9fb15c6317e1d4159a931f5f4949d6524bff72b0d70",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 269,
+      "source": "ffe760f0e5b5f36859d09e5fa35ee754c2d4da0102a326c70293842868be4869",
+      "condition": "clean",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 270,
+      "source": "016b5b6f235e54cdd6dca76d0d03087e5d25da7e36c018ff1dfa240c4b8fabc2",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 271,
+      "source": "02a6e790f7b37da8d0a2b260ee564e697dfcc590fa5b1f1ab27c5b9c26c3aad6",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 272,
+      "source": "02f72f8806f8258dbe04ca27f5567f30eafe0474336d6e575583707dfeda4d21",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 273,
+      "source": "032e85df219d8d28b260d21b4171114711cab98cf525b8f61d832efd483723dc",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 274,
+      "source": "03d0c7947ba20593012275692691070501daf9609168f2eaec15dae935dd5adf",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 275,
+      "source": "0488dd21d5ea64366bf55529ed2cf05ede3b19821d82c6903f3a1bfc863792df",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 276,
+      "source": "04fbf0f1dc088c1187e0c79ebec84cc1722cf47b27f2f1f6ae072e81c106e6b2",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 277,
+      "source": "05e6927be61b1d9bd07e1db2f674b251dc41c931162b660e9a610f58f4a82fb3",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 278,
+      "source": "05f93afa29cddd07d19c79859070b8a0d40751d94f29d01aff714196612ef253",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 279,
+      "source": "065a209c1ad451653cbfc914049240bed53e353dc91d0b7dffebc2b476542deb",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 280,
+      "source": "091a8e314a4cb03c29f24785e0cfc314211de5c2fbb84e11bb71b6c083e130f4",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 281,
+      "source": "0b080d23a13460c53c5eed5a92109aa9f98f2418ba7e84b7b305ea68597e7530",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 282,
+      "source": "0b1e990ceddfbffac2d54d03573f2fca9409d42cc81722f3ae2b6b030efc5826",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 283,
+      "source": "0b234244c6ade925e1f08de73700d0682ea31fb8f25c3245ebf8b7b18604fd16",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 284,
+      "source": "0b60560ad9252b5c0f1187c7b5a6a9ec732157ac79b0bd11493cc3b6d44bd3e3",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 285,
+      "source": "0b994c808e2305028287cf23aa342f180813de9194fa902e63c8601ba4c0bad7",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 286,
+      "source": "0c0f06d3952f180bb6723d619b50a5ff1c676fe14bfffe037397019f92e4b71e",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 287,
+      "source": "0c18abd9ca29890c846e8f8515ea5b676f927333169180b02c83cfe0fd258d00",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 288,
+      "source": "0d25cee992679e08246be6763ef5cc97be495c201c3a16013f077484d3e2b836",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 289,
+      "source": "0d29b05f6ed3fff32332f948e29f439851afd6d27dc713b2785538cd12f69b8a",
+      "condition": "clean",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 290,
+      "source": "0046405b60f2f012edc86c68264e839d574b20bf77777df10cc61acb763de3fa",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 291,
+      "source": "0327d255906525e9e803f7bc308c5392351bf2ee7dbe384f38ffa84c9bafcd4e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 292,
+      "source": "0391916cc44a7dbfebd764dd85759974cd636da8208b3a3a47df2d73538ee6fb",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 293,
+      "source": "03b7774e99ebcf4349bd01a904bbb61d9c89427972bb8a70acc910c6942a41bf",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 294,
+      "source": "044e6041678c98a6ea41fdb7da1eadd75fd29ced0c8f538b43a663d42910f10b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 295,
+      "source": "06811a835826c47ad78e91e90cb758f6334f348d21765375b2ce9146be1309b4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 296,
+      "source": "082cb141198cdc60879e15f3fa0765e99554ea4df0e7c7d6768eea189582c3c2",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 297,
+      "source": "0aa52d34c0e0baf7e5288f54cb48307c5c76492081ba736cbbdea1edfb94c47b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 298,
+      "source": "0c2f7d48bd413351cc0c50b71e806f82d1c54fcee9db74dc99aac2fb927941bc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 299,
+      "source": "0ccace87e701d4a71a88a4d2e4c9a81108689423739381751b8288b59856f4ca",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 300,
+      "source": "0d04cbafb4f85f684c20c7c2121d29b89f259d1e90c7c35acc6178e86dc41833",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 301,
+      "source": "0d578ed6ce0ca32f08ab71678389ee38ef8f3da4f1dcc9db287f9388c2eb7a39",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 302,
+      "source": "0e25a596a7ddcb6b78b1f608c01a9ab168748556ee87e7feb2293ce3de87cd78",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 303,
+      "source": "0eb6e04979f48f5e325633dee54162a4a724f5fe6d4ffca9edff000917b615ca",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 304,
+      "source": "0f1d2f918fd93652f92a25de19f74324cfc879a77e39e5b911eb30fc3a82a75d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 305,
+      "source": "0f30ad864afb086b06c24e27574fb0ebe3412b58ee8173ece1d047eef34116d8",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 306,
+      "source": "0ffe135744b30b96bb0ced670e532d08473f2462177d8437aa6678b4910457e2",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 307,
+      "source": "110870b21a74fb75e099f5aee3b5efc0eded120128ef037b975829ec3505e8c6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 308,
+      "source": "121102528272c406ef04d6ed35dc09445581465c39bb3280d15dc9ef837b1fa0",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 309,
+      "source": "12364ff0521a417eb27bb5504a6698849a5e45810d5a60055368d69034c6122c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 310,
+      "source": "1318c0d9b059a08b3867d40ee1c18cd46adcac3b69d1790d4095995d311f8917",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 311,
+      "source": "14e65853add379636cb1daceda84748089b203bbc6b9af4bca8ec5e6860a5853",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 312,
+      "source": "150ffc419c103081f8c192b60d27d5019512633184d45cc78cc7e8f4413b3b0b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 313,
+      "source": "167b7a8f8c23757c1ae2fd6966055d444eca638520cfb6f302b7d7abb76abac3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 314,
+      "source": "1708c782c65037a4e1002c179ec593782fcd4f0b086a5cac0ffd573ef58dc7a4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 315,
+      "source": "17297ed59542a7be793813baf3c7441e2f74e5f79636101c669171e91f0e927e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 316,
+      "source": "18601fce531059a2faee79d8b1d9881964b1fd486c837c99fc0bb970bcb9d7ad",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 317,
+      "source": "1a7d1dbbb35ef9f8e44672cac1cf2018b00f61fd7547c3bd0283c7336fc7d9f7",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 318,
+      "source": "1a94db598829589f75908a2dffd07030d76f3304606dfe7794e7204926384949",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 319,
+      "source": "1d7ffba898128163002177abf22766d368700f6504f4273db2481835d247bd14",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 320,
+      "source": "1e21cc5c368d9e015223dbac4771343d8acbb2b76c2ced5e49a319e1b1bb3f31",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 321,
+      "source": "1faede96e2c51b32425dd0e77867e9b3b790ab0724bcd763cc1f4ea331afac5c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 322,
+      "source": "20e375fe90ecf726ed1d482c0db90f7aaf7b166f595a65b7a592cc38a401216c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 323,
+      "source": "23d057d6150dddcf0e0a83e75d2fee86af4a52ce801e454539301431ad2d12fe",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 324,
+      "source": "254855329c0254463fcfd0a155a644bdf2b955fda0e338ab7b1ce9cfb4bacf26",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 325,
+      "source": "2599551f47cdb8515d126969fe26a968f9519bf6a2ebeb7978fbeeddd0dd9300",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 326,
+      "source": "2686f354cee5cbdbde6d4421577055f26a60eb8c1d853f7841dd12cb41d49b33",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 327,
+      "source": "26a96e68851c910ba49738157d5e5ac8b5ab6c1fe776de2647f443e8e36f88d7",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 328,
+      "source": "297ec1a0a369123845e17c413587e5ca71563008ceb91c5355162f3b9d7c5938",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 329,
+      "source": "2b8c862c81366fe5c8e7d3600216f7d5b80c1b10aa55b1540d18d5eb60461ccc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 330,
+      "source": "2cc88396c55f661fb52bf4cd17c6175a25c079596352986cc030cdb46c77f3a6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 331,
+      "source": "2dc3453e4d6fbfa651d2625258f5b6bfbf234b13c294f82bc66b39b75c0318e4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 332,
+      "source": "2dc77674ad9a14b32fcad2c9405d8d2d92fdd8b3ff7b98ada46a6f1558cd80db",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 333,
+      "source": "2ecfe579cfe9d6105a160f6d005ca6bcaa3cc6b04131ece0c909a50803a33ad0",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 334,
+      "source": "31b7482b422c3941ac6a11ab1b2760253cd8961701b7a012035522cbea98c356",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 335,
+      "source": "31fe70de9d9bd5a348f84e7523682106f3cbac1a8fe2603421ae4792c98f1623",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 336,
+      "source": "3280a9e88f44688005a0c7b4f3ae7b8593e2791f8168568dd63a229de7598dcf",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 337,
+      "source": "35177212789df9229865a2c8a025e2e68a41f248bfe9ee979360f8fe8dc856c2",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 338,
+      "source": "3554340b5a48b23c97a194f7b7bf1776a625cc789d77a0b835ad07052b679eda",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 339,
+      "source": "358892669ce9249d65eaaf16ef33c84d31f7c32e355f4acf23033b3b15c995fe",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 340,
+      "source": "367075d6695862c4493a7d39213ed66e50845e9ff3611a8212a2745ac2a8f1ad",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 341,
+      "source": "369d4bee8a232c19fb5ca45a2289822dcc0b1f1fd575fd7db35a9919d7d78f3d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 342,
+      "source": "36aa104a77f3477c7d6e0ec5b9cde40ed9d43dd1afd363718eef4a2f8e272005",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 343,
+      "source": "36f89d12c0c0226f5da438c2804a5ccd5505e6810e2daf7fb044dafd409aca5d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 344,
+      "source": "3731f27e6665dbb752c8a1a3417f0b8eb59e952a934c98e015563db6be9c5afc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 345,
+      "source": "377bc7dd25075830dffae3e80088ad088eb10e9e9ab6f341faf4b999752cf907",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 346,
+      "source": "38d33f3610b6897a49b7f2277689fc1a92619f25d621c31808decb08848ff2f1",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 347,
+      "source": "38e21661768ed76f443f3ecfcfc009dfa3297870e30731bb1c3a16ee6babfabe",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 348,
+      "source": "391de7caa6797b40467b1274be7b3b9241a79912813372ed40c061686dca3a95",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 349,
+      "source": "399c512883d199635f6233e27e7a7a3d5bed3eb7aab15083dc5bf9f265d2baa6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 350,
+      "source": "39b0022061709787cf48658c6fb8dd15731e66c4610fe9d75712366d74a2a7ae",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 351,
+      "source": "3a3ef9ad75e44d1feafeb60e4e8054e04f226db4f45c8598d5ed75216878e14d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 352,
+      "source": "3bcac890eee84445a798a20289599d44e664300658111da743a4073900a95a41",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 353,
+      "source": "3c7de7e24fbb1a48d6a302b7f81a1939560708b244193706851e985daa27cfe8",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 354,
+      "source": "3ea22fcbc9559df0c49efd5c847dc1b8e2bac974845996bcfdca20013aa22572",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 355,
+      "source": "421ac2ff62979abd1611571dabdbf69ca673add5f2802c550ef5da347ef4a012",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 356,
+      "source": "455b206ff2cf9f9db1ce0e10e8f98b7c0f63a5a7490843ccab05d9e664915b24",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 357,
+      "source": "476f486823c97394604a832898feebb5f74eb94245eb931e16e43f9ef5e9077c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 358,
+      "source": "484c528e94c1ca590ce089553358cf9256cad3191427c97c33e0f5ccc8dbe16e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 359,
+      "source": "4b95e1f850b1cf16c6117525ffee5cd0669bd8211ef9ad58507d7b3f3c423b9a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 360,
+      "source": "4c209b20eb9a0cf81dd831e226daa7521b348412956749b0859267b021b46508",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 361,
+      "source": "500c46e2f5d7065d8c492b0cfb36c3ba77a85a744079bf6453dfc85e02b97a3c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 362,
+      "source": "5110aff87b7391929ab30ffbd01dc57c9ce8f4576f7257db6ebb541d2b6053ce",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 363,
+      "source": "51179378d603a639c6a7158107977d2e58c7072c1be248366f3debde1b5066cc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 364,
+      "source": "5261d0b7ee9c4ca06e32cb1b4888d139beb9acbd009ac4eadcb859dda106b5ac",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 365,
+      "source": "5321e25088da9adf11b3455da3a3435ab7a81a5302c46fdb987f6521e65f4f07",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 366,
+      "source": "53b23674f9756ffbee2d8e24d622ab80c797f9380b881734a62d8f8383bd1f49",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 367,
+      "source": "53e7260d78101d4313f81b01e063e47dd3cc8974062ae4bfe8f9966d9136668b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 368,
+      "source": "55073f4ed8e7f803cb1412ad27e998fc4c59ccc5476597114703ee9210cc994f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 369,
+      "source": "5681e8705d15961faea00d3225aacbf31eea774faebf4a0b7df6e5903a107c94",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 370,
+      "source": "568bb30a2536d70ce4be156e2a98825eea9e20c45bd603c06678a07f5c5dfd04",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 371,
+      "source": "56949cdeea9c339621667f8e982efe68a6926cda46fa6c22c14662ac359ec78e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 372,
+      "source": "58e9aec52c45805cab6805931fdeb0c2a07612157dd7085b298be65db55eb093",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 373,
+      "source": "5af42f7b29116f3a377435738a7cada23e573e81998b6a34b1c3f8e137f18dbc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 374,
+      "source": "5cfabcb4e299b09666c2ddd5e586c9f5705fb8c1fb9b628473465722d42cfd43",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 375,
+      "source": "5eb3c30442e000e5cca7fd258ab6ace13428c3693754214790848537aa02858a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 376,
+      "source": "5ef5d6fccd6032f3ca4d2026eb0b98199436f7e280b58e95b5b1a5fff4f2288a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 377,
+      "source": "60fc8a38f90fc137e91ccb6877a0fd38e882f696f8837382615b71ec712e1e70",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 378,
+      "source": "62c8106f8afe8a3e0a3f6ab5245d6384f6f5f216333f1e73e0b5068b43833a7b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 379,
+      "source": "65e9f60b8ed02f4891ae1b7759c57aa2295a67d5d8008aece4dfe6a925dc8c28",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 380,
+      "source": "66abc4550e371062fe3fe5eeb1ad4362dfd3a8cf3e53d568ec8bfd5e772f900e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 381,
+      "source": "671e5f187e7db6b692b2b812ffad0cda7b22d61e008f12cdaf2ca45a099c77ff",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 382,
+      "source": "677cedd6da38cc94bf2fc2d1f002894b9b75297269fb8775ba64c8634339c627",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 383,
+      "source": "68a75502eb09f2fce11bafa903976e6ebd301cf882c9fec5d17b14f8a2f99778",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 384,
+      "source": "6b17042244a90f5fb4c1c95875e3153e136a8def40b32aeeace7b5a50a7c01a6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 385,
+      "source": "6c88492f949b2bcc2dc1ebc282bcafb272b5fa892c236e606ba9bcd6b95319ad",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 386,
+      "source": "6d36474a8491a431c9965b54c53a51538c4bba96752c9af72bd3d82b3f4a85ef",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 387,
+      "source": "6d6bed66ce3e74b682388888f50979c7ab563fdd636651b1e3b16ee4d3be34e7",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 388,
+      "source": "6d73bee0a96f6225aa34bef31b62743b657c1254023eeebf604d7bad83142deb",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 389,
+      "source": "6da2ffbb84b4b3d21754c472d7f5e729958e69bc3ea296a24ed215152c19b62c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 390,
+      "source": "6e501cb64c6075180ec65230eb5d60b98a565532a3c6367efd2bded8f30e8eb3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 391,
+      "source": "6e86fd9aa036ece2f4827477eb4f06973189e59aa1bbd67644dde85ae51cf17f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 392,
+      "source": "6ed3dd061cc183e90d3fe15fa0045855f24e0027a028a1b25750fb530cea0cb1",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 393,
+      "source": "6f4636871b1447810cccee23d7c432d19595069555d9c5af2940a987e6223d78",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 394,
+      "source": "6f92bad92f5ed2e838d27f3ee181301b0125f215eb9bcc856abec4e79973cd44",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 395,
+      "source": "708329b86ab6061f1adc9cd0c71b22b2e80fb88a60b15b799023e00b3e1dc24a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 396,
+      "source": "722df1d6a537db019f7bc0cbf839edda12fa08f9debec9e81e37df0b4496ce65",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 397,
+      "source": "73be4cbaf313e5af3f11d466d8991221e08bd3c9a22ed64f0275a786f1915d42",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 398,
+      "source": "7412eddf9952e8a749c671e67390a5d3554aca259372d8e19d4ff17bc0816905",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 399,
+      "source": "74f80dee68c66b6f73e5c95dbb5e36e35cfe82b6800c13d5153cea1f0dc394fa",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 400,
+      "source": "7512debcf6fc4857fcb2d42326c6787e227e59f819425dfd50dcb2fba37d37cc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 401,
+      "source": "7535f7a4981574e0a021740800c34216eb75540011e3c685694aa5317272fc16",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 402,
+      "source": "75ac452389f59bd725c6bf68f4521ba1471a556d30adbcfb5b29d1fa64fe023e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 403,
+      "source": "75f393a35dd2c29e2703d6693c1b43593718ed6afcf1a9e07a0e86d0c5e0b1a3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 404,
+      "source": "7666107c448d2234f43fcf14541e7bf958d41583e7ca38449f59547e030a5f6c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 405,
+      "source": "767ef7b4c31afd770cd2dfd17341af33ca3eec6a0018ad9cf9ef6c69c13c97a0",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 406,
+      "source": "76f707b0ddcb61796cede17b2af374b1a9f9c3856e214f6190db45a9a7d59a10",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 407,
+      "source": "778fb5214ca3559c563dc5f7e498f51285f45fa4fae0e04db78206b3b9c4304d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 408,
+      "source": "7898fe4fe87f61985faeff0c20476488180dca9545e324ce3710c8ac95d084f9",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 409,
+      "source": "793aa8808f567cd6552258c01904817b28d481c5224cce86c6b78bdd2721d42f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 410,
+      "source": "79bef32f8309a3e38a5c96e56a1e54bfd5057b58d4b000e08a5815a28bcffaef",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 411,
+      "source": "7baa41a3a61051f22e5e99400ae072f8a9a359d41bc47dc6172ec3b76e9f7ca6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 412,
+      "source": "7c0b26e35c50d5fad55665427fa3a87712a9e2ea055d87906c56c146228ae41d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 413,
+      "source": "7c6f323094a3da43bf4664e30bb84691b91ffa9bcaf88b834321062710bceffa",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 414,
+      "source": "7cfad80ed8df45124dce13a24dce66949b774750fe13ab9f3a29ae7ecf32d4ef",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 415,
+      "source": "7d184ad36e7785f3af0eeef6749f8bb23418fd1132b8c14090e351dbde9e9798",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 416,
+      "source": "7df40e532413e8125e874e0d93467862e9b2aeba436d7e78f9fb93419e68a6eb",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 417,
+      "source": "7ee07aebfe8997bd5c57f958e494b9468fd788b10a73a7f390e777e7602f938d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 418,
+      "source": "7f816c8c5d58bab9547b2171ad8a4c68915259cdd4c659573a535cfe716387b4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 419,
+      "source": "7fc724b97720558c8368af9ba71a65c100eb8cf912904d40bebd69498d87c489",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 420,
+      "source": "813fd3fe142c2c6a82a3c4d9f0752f7ea0a12e3c051fbc5c6e47417d3d097a1f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 421,
+      "source": "82b8711bbdbd0339337db43a5964b53a522ba31c8b766941dca9299755c8f190",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 422,
+      "source": "82fb6d832a93ab370a235ad1da788e4c00e869995829f368f4d58225d416b365",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 423,
+      "source": "83242feddda09c84dd7648adf3b58ae9a02eafed278933423ac749f786345abc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 424,
+      "source": "834c71734fc6257e459b03759bdf40a8f010d968f9b051533ae2577f4ae2f403",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 425,
+      "source": "839e441d971b5032b74387b4c6ad73e4a763066ae091e72d34ff2d8f33b5ccda",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 426,
+      "source": "8477e24640fb56d2644a2460b57c3e653e259d8eb768d87d7342983389c5d4fb",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 427,
+      "source": "8709b7a762ebfb915d7500413bbef14db7a3c96aefa729e255fafc97441b7625",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 428,
+      "source": "88ff2263d35206c0152a9569cfd8f41789398ddcc60351bf9b7111f35274b166",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 429,
+      "source": "89526e779b3ef99fe1a115262f58d9ad2e7f0012e62a8f86b59ab7c3f770e2d4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 430,
+      "source": "8a441bf016f67aaa0f21112bfbd35a032f157df1869f5b97154063f527891151",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 431,
+      "source": "8a946044d3d5c1b22cc7990211c01ae53ee48af50e65ffdd426c3cb2d58ebe16",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 432,
+      "source": "8d08c943af8c0783ac007753d6450fd5a5828e129e199d943015f2b45c54be9e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 433,
+      "source": "8f41f3d185b0de0fe9197e70631c7fa148180067ddd8d95e87ca1aa2ecd1807f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 434,
+      "source": "90521f05d4c3c2fc3f15475e8d00a7af52111db2f8884cc8befd9aeb14b661ed",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 435,
+      "source": "90f777c4cf0471e5832ed22f5bd79bfef6be9dcef7f26f5655af2e7b4df91e71",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 436,
+      "source": "90feebb241d179173583a55dcc2a072775de44e067038d60513c6c366d4eeeb3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 437,
+      "source": "92a1d48c1f1b08a495abbc40d999e54f6a2fdb910ecf40cc9675aeb917db3b5e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 438,
+      "source": "93674f451227f71e21513aece38ffbd9de074ff66434bc640c5be7d0e52d5d41",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 439,
+      "source": "93ced17f4532f10811fe84d12c5b7c366e778f5f1cde4da0923be991d10a2305",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 440,
+      "source": "95e4ed37a0b7fbf54e713a9cfc6fc66aa9c3bb5ce170914576ffb125364f6e7b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 441,
+      "source": "9653b4b36b43fd6e4a556e11fce2383dabdabb70ae5793da9177922bbdb4c6e8",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 442,
+      "source": "98a86b64f2ede209013c67f47f6ed288723db2d707d1f7ca0fa00409dd55b2fe",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 443,
+      "source": "99d400c5192164cf65246de5d2c91e54e6a5312655288503487946d573efa0a0",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 444,
+      "source": "9e88d467b31b526f0cf3732264d72af070365a87edfcbcccbe0f9a3845a30974",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 445,
+      "source": "9f0edb4a349a72882d2526d2f77edd7ab85bd594128e1f6596b905f9e0a9d8d6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 446,
+      "source": "9f9d4356fbfc6f750225be8706c3c87c80749db66d5c68edaf43612c936909f2",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 447,
+      "source": "9fddc984d5c02565fd12b248572bed264d11f810f51c15cc071272837db29ed4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 448,
+      "source": "a00621e2838535650cc053346039c394cb920e4166eb08785c68b8cc8e65bbec",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 449,
+      "source": "a55b9e4172cde4c6441feb878a394c202b269bda1e9f4a7a61b41da7ac4fe85d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 450,
+      "source": "a6764f42e7608e539fd3b60c663b8f3bfc7d863fde46b2f41cc1c3dedd92c724",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 451,
+      "source": "a7076ebb0a338b718a02a4428f4e04d614832513d838e23e01449f6377fc0d01",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 452,
+      "source": "a73890705e7a0d3e52254d0aec000ed0307968450e10f860a7b7e45fe9e085db",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 453,
+      "source": "a7848a058d4eb08b6f4faaf3dd44c0a956650205748301236b17426d57097aa6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 454,
+      "source": "a8e91027261d33ad4c2058468f1b0a058fabfa6c29c4abfc1a0c9d42a80fe8f6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 455,
+      "source": "a91fc566e13d3253050d35b898b8ed659905a8268847ef06c1f7733757cb8788",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 456,
+      "source": "a9d5c1daaaeb00a1819b3b9ef87bc8f5fbaabb37e3e2e1320ac344ba61b606ca",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 457,
+      "source": "a9f3ed313d7494096d51b11a7bc6c5165cca735903f3d581f4d0df639572c294",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 458,
+      "source": "aa1149e239a31e679e30cc8b54cb5e7891f110ad1befdf8530cef58a206d4188",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 459,
+      "source": "aa18ffe8e33f56dddfd1b88fd54e89aeeff1983c71b9f325c6baa021320c185c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 460,
+      "source": "aa62a9634b38443e309b0122922048462238f4e45b7ebcb949504da4e054b0b4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 461,
+      "source": "aa7381ffdd6b16a56243d4dd16b4ad62a8aed4e1aeafca9fd1b78aef7f376f83",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 462,
+      "source": "aa7779ddbe6690026ad73c6d12f24f573e5b3be527edc064c10344d5837a8d22",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 463,
+      "source": "aa83932b2073c75a818549dce83101bbaa764b2e705103289a8df4b22e01bc75",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 464,
+      "source": "ab9e9667fd3cd58c3b532936c69b4dbb117d5671334e5bcbaacb3722a22162ea",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 465,
+      "source": "abdec7a1f84a30c28709f0e373a165c912a18f15aa8e7c992d4b5b0314fc0038",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 466,
+      "source": "af626cd84902cd7b4663043a36a81d0a019d954d9607879f6f7aaa96130441c8",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 467,
+      "source": "af9f0321f3acedf982a652f5f2e9310a783d3ec890c80e4228a66646e9afced4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 468,
+      "source": "af9fac336367e2b8b4e7314d428fc1fb3390401a1670787a3419940157727388",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 469,
+      "source": "afb29b73d7fae466b00ad572d37ae5be308ccd91cf57c82309331ea58ebd3fa4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 470,
+      "source": "b08da27dbdb393b157c42e014b712358edfcc210a17b78e8b993ed0e6186f1fd",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 471,
+      "source": "b5856bc3695fba2b9ace3caced3b1c783930b3c24380e8fea8ab079895f75c46",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 472,
+      "source": "b5b5718577b5522fedde36f8e22811226cb305fab86541b391b551068998608c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 473,
+      "source": "b65f1e18d496df96231807c74aab701d680a5d529be56ad97497f6f52443d977",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 474,
+      "source": "b6660efc8a7cc57b7da616766b14c06812254c0422d48bfa0860db753c4f6cdd",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 475,
+      "source": "b6870a0cc504de5913c485b462c538bcc6242771cf4fe3f2cb22ba37cae0483a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 476,
+      "source": "b74f577a82e82a76db9450526b2fc5863ecc761cfb6d243fef8907559711afb5",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 477,
+      "source": "b80f700f2871cde38bff5a8f0c5adee3731e86116b3e4b1e2eadcfaa1966dd3f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 478,
+      "source": "b8f33836036497d5b83075b2bf5a093601ecf13c4c81d35a1f3af008dfe52dc3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 479,
+      "source": "ba221858d8d1a1c17d7eaaa1ac72a33345cc803ba1b96620a576113f7dcabcdc",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 480,
+      "source": "bd202f91ddd89c3727996d411e6330301df47bfbce8627e909dcf5cd3ab12636",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 481,
+      "source": "bda65326f1b3d151f35170e2f1ba61bffc1ee388bc601b55837211071db12d4e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 482,
+      "source": "bdc8d32308a3eaaa7153b16c4ebd6e56ad346377708fedd172da28de464dbee8",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 483,
+      "source": "bdfee0b1201604e89f9ed8953bea9f820375c70335c109fe7a434c326868f9b4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 484,
+      "source": "be507963548917b7dc2379663a1d7fe3daa06cef391b4a7ddc5319dc8bd20e03",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 485,
+      "source": "bebbae671824925d0537d8c3306120c58e1f2dad688fbe8c2057d32ae5eae13d",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 486,
+      "source": "bec8cea242698b86eb179223494c7dba93a12e6e92c673623ce2148edc628b47",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 487,
+      "source": "bff8b23555a6654dd5a240992aee08df5e9b3fe8c688fefa37cf17bc9c2b6a3f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 488,
+      "source": "c1233156b17a5bbaefc9700881b44fb512cc4ba12bf00b8718af00addb34f6b2",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 489,
+      "source": "c138ff00ac535bc21ff492590b04a5c9df13bba39bda6f47dd91cb88d980186e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 490,
+      "source": "c392db16cf6ba4967cde4e61b1f02d64d396b09c4d4a11784fddf940c0a41743",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 491,
+      "source": "c3e8d16676654a022b58559e9879e882476a25c57be200044140b0e08ce73a11",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 492,
+      "source": "c408389639cce8c2da2ba020370457279429b80420e7379bb997392bcafd03d5",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 493,
+      "source": "c4f1027db43a4cc746e12b1dda42f5d1728ecc093ee73bbb2ec8961e4aaa72cb",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 494,
+      "source": "c7b3c5e309632173863586042983ce86c7fe5813d24e1f23d00803ee66436692",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 495,
+      "source": "c81fdfa4f7e457c21bbe7dca824ffcdb602dadf60aa59f6aeaf4ddc71054386c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 496,
+      "source": "cb8db299c4721fe71c11b8e12b8cff93eb0ff2bf4581d3db218f4b2226a18166",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 497,
+      "source": "cc4ce3b9394afa13e4715d4ef0f878fb2982a0b52c5b4b1561e0eff80d6dedcd",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 498,
+      "source": "cc919de8775d5528872dc90d26ef796a64e73bfc04310d1a993455ce7a3a9f39",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 499,
+      "source": "cd2120b467030e47514308711746992fd0834b7d686cc767fdab0a12b0cef562",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 500,
+      "source": "cdb3dc250fecd3608553c3096fd76e9ce844ead8ae3f0be8cd361542c81a980a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 501,
+      "source": "cdb86540a847d39765c21a839855cc7b81fa2c4a8637f77957378dccb011834e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 502,
+      "source": "cf3abc2609997d757cffee43193a1c17b3f17bfd96934e41be168254ffa0770a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 503,
+      "source": "cfa49c7eb0958b57f8eb2f4c63042b188f3290ced92c015e774c8553e8431f3b",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 504,
+      "source": "d1487d000c49a0716fce28609f58883abb52df0618a64878f2fee5d534de4b04",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 505,
+      "source": "d16f1da313957faf235d8b3319b98f23d41395d05fcddf550f692492ade469e1",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 506,
+      "source": "d201e7c39a88ced01e99e541d0f6ba4c7c24ccd5091a8c86973187459146fe88",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 507,
+      "source": "d2332e2fe067d2143cd44ea60dd023bf5311a74617b761eaa197096cbe0479b3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 508,
+      "source": "d24aed54c31d2d10b72e7cc27b0d82ed4eaca0a056143d8c6d43aa860bf09779",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 509,
+      "source": "d2ba33bf399dabc564bd17c2a3b104d832decf6eaf585ae09e3d3a3eec1911d3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 510,
+      "source": "d30fc667041446291f87d08fb7c8d578e5d4d8c01dd69967401da2b039b2f6a6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 511,
+      "source": "d31139e157f9d1b8f7021dac0124019d63847626960bcdc49d98caccd9233e74",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 512,
+      "source": "d47e69763a49d5d5a927a191715710198c5ecb75673ee835d645b8bd71d25e92",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 513,
+      "source": "d526f36419cd66b2269d6ee46f3e18e798ac6dba9657676359566d7268ec666a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 514,
+      "source": "d56e3eb807f29dc2b782b7b59d1daea82e5fcab810256d6b1d88f7993841bce6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 515,
+      "source": "d59af1a5f35ba00a9cfd9ef828b4817d110dde01008cf5132f33b852afb0e9f4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 516,
+      "source": "d5d3daf656fa4d7c7a66cdccbe90b7b1eed94725446f6b228f02620deabeb64a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 517,
+      "source": "d665bb3dd97b6c0b86930a6d78ac060d5acf91e74ffed2c7d06a3d28d6c0625c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 518,
+      "source": "d8ee841afe3d24b39a3f1f5656780b75ce9b1e1b6bb11cb6953a99d0cbaaffde",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 519,
+      "source": "dad964a1298e0e8550c652c2f6cd3dacda7096290117e4f96c499fc62f7e425a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 520,
+      "source": "dbe4aca05a9d06d4a3bd854f5e957943f09d6fc1995c92b4f1022f046dbfe742",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 521,
+      "source": "dd0e2f8a2c6901cc540c53aa7194af40fa2e8ed38a0825608e1b56c846fcf01e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 522,
+      "source": "de6826749f3a7b68e11a2395976c1bf9d818ac21c9920bd160138fd81f711ba6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 523,
+      "source": "df10830ccfd38fff5d9e418be80162e0846ccc33cb6a10e2143a8b2ae4c59e70",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 524,
+      "source": "df2347ec3e9637adcc36294b8a7b18060649129cdf2a7c23eca2ccccce60d227",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 525,
+      "source": "df878735886705a5cf3e8d4024cd8d2729fd16cbb8696a289a7252b1854e7f0a",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 526,
+      "source": "e0161a0bc31d0ddd2dfc780255faf3b92600172bac62383da6f060315a72189e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 527,
+      "source": "e3c440844067a1022cabe8d8ab71283fda70210f94da1394f9296a58ed380ee6",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 528,
+      "source": "e48252b233324d081b482e4986db38a764533dcb1fa07f7a12d3adc9eb65ab88",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 529,
+      "source": "e4bcb2a80023991c71e22dd292b0b159ace79d9bd3f19532085f85fcd47629be",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 530,
+      "source": "e8a366fe396aaaea124716a1baad189f43971bf78b88e4a4c4c8bbd3ceb849a9",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 531,
+      "source": "e928a260968ef82b0767cbb1d3e3115ace8935854db15d712e4b3c49c0c48aec",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 532,
+      "source": "e93030abf5c2b941529e6b105767aa0a6edd92b18c96792a2ef07865c39d7253",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 533,
+      "source": "e98e59bf3ee6869a2f29c25a96f54c99f2aa159b1630595b3073465d26b5f807",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 534,
+      "source": "e9ecee694c4e4f78c234679f04f199bf2711599a59a22efc4b87af4ce7962e7c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 535,
+      "source": "ebbb23464a4c5be52235fd3088e89930c60802de487a1fa1c608bee259a48526",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 536,
+      "source": "ec6211d4c5f7d0f8418890fe2034d8dca7f0657eec769543f57c2b9f18b6b009",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 537,
+      "source": "ed60e7a1a857970c205dd4a58c5290c96cd1fe723559b7928615c869c684d7d8",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 538,
+      "source": "edfda57ed4467e635baeff00654d9774bd2e94483c0e1a28c59b5f7f34240807",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 539,
+      "source": "efa2e345933a082a83e015e77c8a6f478cc33c5a28cc4e46c9e6ce53d3769a73",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 540,
+      "source": "f0162be4de935f4064486990a524a4b7b8a816bc0a39f8fff3ee58034546e9e0",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 541,
+      "source": "f12aea95221e055b3707857a161825be6d9cd40cde27d53107b7009bc8a6a0a4",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 542,
+      "source": "f15af60ae8db80ad345879098107b51cd4b89e1eb225a90a326d71d2be56e915",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 543,
+      "source": "f3c2363177cccfc7bce51d78484f54ae42db54a2ad878b1479c5d0d0e2960872",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 544,
+      "source": "f3fa6a34aecaa1af2e1e31c2359b1d730f450c166377a622ef29f85848c26c54",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 545,
+      "source": "f4fea54ba383909b5e71c25f1d327425d5e102fb4619e590aa94933044d828a1",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 546,
+      "source": "f5491face05957d5c441d52295f15e0d9b917ac2500cd84d8baa0f2d2c39f75f",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 547,
+      "source": "f612a5beb338b77905658e99b54486ec4b76eef3ab30b65798dded7ce44c49b9",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 548,
+      "source": "f8f182527157c5fad4a77848f79231a203f2366ed8cee3eb7d0dee516d3f1143",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 549,
+      "source": "f965707a2b7f4645df819d433fa24ed2e5affcb4e492b6b7154505fbb5136c8c",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 550,
+      "source": "f9875ed804f7a3595505650f60bd511262c904e4ddbdbd9aa4a27450c9237e39",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 551,
+      "source": "f9e12ac424ba0e9d72834084fbfaa1a746b0ce109ac3fe28fde658008aa33b78",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 552,
+      "source": "fab5744932d1ec330661ae33284428e376683c02514119f63c6de5d7e0de8f5e",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 553,
+      "source": "fcbea3daea2af57f5ecc704b6c61ac4c61a7e1e8ed047f8152b24c3c269f79a7",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 554,
+      "source": "fd1f86fe4349e991e98e1b00c1b1aa94088669822cdb30a5c0dfffa5782134c3",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 555,
+      "source": "fe216505917b1c9c31f5925244ff60cda229409dc13f9c4f39f0dccec4e90efd",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 556,
+      "source": "ff6cd63f155b15695324ac6f4c9bc5ca1b9ddc7561c38eef5816bd9b1584ceae",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 557,
+      "source": "ff83258b9529bc80bb6c6114e052611fa238ff45bdc6715087441529c7ebc2ba",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 558,
+      "source": "ffd21c5983d44ff61cccc9fb15c6317e1d4159a931f5f4949d6524bff72b0d70",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 559,
+      "source": "ffe760f0e5b5f36859d09e5fa35ee754c2d4da0102a326c70293842868be4869",
+      "condition": "blur_0.55",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 560,
+      "source": "016b5b6f235e54cdd6dca76d0d03087e5d25da7e36c018ff1dfa240c4b8fabc2",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 561,
+      "source": "02a6e790f7b37da8d0a2b260ee564e697dfcc590fa5b1f1ab27c5b9c26c3aad6",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 562,
+      "source": "02f72f8806f8258dbe04ca27f5567f30eafe0474336d6e575583707dfeda4d21",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 563,
+      "source": "032e85df219d8d28b260d21b4171114711cab98cf525b8f61d832efd483723dc",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 564,
+      "source": "03d0c7947ba20593012275692691070501daf9609168f2eaec15dae935dd5adf",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 565,
+      "source": "0488dd21d5ea64366bf55529ed2cf05ede3b19821d82c6903f3a1bfc863792df",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 566,
+      "source": "04fbf0f1dc088c1187e0c79ebec84cc1722cf47b27f2f1f6ae072e81c106e6b2",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 567,
+      "source": "05e6927be61b1d9bd07e1db2f674b251dc41c931162b660e9a610f58f4a82fb3",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 568,
+      "source": "05f93afa29cddd07d19c79859070b8a0d40751d94f29d01aff714196612ef253",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 569,
+      "source": "065a209c1ad451653cbfc914049240bed53e353dc91d0b7dffebc2b476542deb",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 570,
+      "source": "091a8e314a4cb03c29f24785e0cfc314211de5c2fbb84e11bb71b6c083e130f4",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 571,
+      "source": "0b080d23a13460c53c5eed5a92109aa9f98f2418ba7e84b7b305ea68597e7530",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 572,
+      "source": "0b1e990ceddfbffac2d54d03573f2fca9409d42cc81722f3ae2b6b030efc5826",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 573,
+      "source": "0b234244c6ade925e1f08de73700d0682ea31fb8f25c3245ebf8b7b18604fd16",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 574,
+      "source": "0b60560ad9252b5c0f1187c7b5a6a9ec732157ac79b0bd11493cc3b6d44bd3e3",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 575,
+      "source": "0b994c808e2305028287cf23aa342f180813de9194fa902e63c8601ba4c0bad7",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 576,
+      "source": "0c0f06d3952f180bb6723d619b50a5ff1c676fe14bfffe037397019f92e4b71e",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 577,
+      "source": "0c18abd9ca29890c846e8f8515ea5b676f927333169180b02c83cfe0fd258d00",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 578,
+      "source": "0d25cee992679e08246be6763ef5cc97be495c201c3a16013f077484d3e2b836",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 579,
+      "source": "0d29b05f6ed3fff32332f948e29f439851afd6d27dc713b2785538cd12f69b8a",
+      "condition": "blur_0.55",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 580,
+      "source": "0046405b60f2f012edc86c68264e839d574b20bf77777df10cc61acb763de3fa",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 581,
+      "source": "0327d255906525e9e803f7bc308c5392351bf2ee7dbe384f38ffa84c9bafcd4e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 582,
+      "source": "0391916cc44a7dbfebd764dd85759974cd636da8208b3a3a47df2d73538ee6fb",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 583,
+      "source": "03b7774e99ebcf4349bd01a904bbb61d9c89427972bb8a70acc910c6942a41bf",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 584,
+      "source": "044e6041678c98a6ea41fdb7da1eadd75fd29ced0c8f538b43a663d42910f10b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 585,
+      "source": "06811a835826c47ad78e91e90cb758f6334f348d21765375b2ce9146be1309b4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 586,
+      "source": "082cb141198cdc60879e15f3fa0765e99554ea4df0e7c7d6768eea189582c3c2",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 587,
+      "source": "0aa52d34c0e0baf7e5288f54cb48307c5c76492081ba736cbbdea1edfb94c47b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 588,
+      "source": "0c2f7d48bd413351cc0c50b71e806f82d1c54fcee9db74dc99aac2fb927941bc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 589,
+      "source": "0ccace87e701d4a71a88a4d2e4c9a81108689423739381751b8288b59856f4ca",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 590,
+      "source": "0d04cbafb4f85f684c20c7c2121d29b89f259d1e90c7c35acc6178e86dc41833",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 591,
+      "source": "0d578ed6ce0ca32f08ab71678389ee38ef8f3da4f1dcc9db287f9388c2eb7a39",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 592,
+      "source": "0e25a596a7ddcb6b78b1f608c01a9ab168748556ee87e7feb2293ce3de87cd78",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 593,
+      "source": "0eb6e04979f48f5e325633dee54162a4a724f5fe6d4ffca9edff000917b615ca",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 594,
+      "source": "0f1d2f918fd93652f92a25de19f74324cfc879a77e39e5b911eb30fc3a82a75d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 595,
+      "source": "0f30ad864afb086b06c24e27574fb0ebe3412b58ee8173ece1d047eef34116d8",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 596,
+      "source": "0ffe135744b30b96bb0ced670e532d08473f2462177d8437aa6678b4910457e2",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 597,
+      "source": "110870b21a74fb75e099f5aee3b5efc0eded120128ef037b975829ec3505e8c6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 598,
+      "source": "121102528272c406ef04d6ed35dc09445581465c39bb3280d15dc9ef837b1fa0",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 599,
+      "source": "12364ff0521a417eb27bb5504a6698849a5e45810d5a60055368d69034c6122c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 600,
+      "source": "1318c0d9b059a08b3867d40ee1c18cd46adcac3b69d1790d4095995d311f8917",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 601,
+      "source": "14e65853add379636cb1daceda84748089b203bbc6b9af4bca8ec5e6860a5853",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 602,
+      "source": "150ffc419c103081f8c192b60d27d5019512633184d45cc78cc7e8f4413b3b0b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 603,
+      "source": "167b7a8f8c23757c1ae2fd6966055d444eca638520cfb6f302b7d7abb76abac3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 604,
+      "source": "1708c782c65037a4e1002c179ec593782fcd4f0b086a5cac0ffd573ef58dc7a4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 605,
+      "source": "17297ed59542a7be793813baf3c7441e2f74e5f79636101c669171e91f0e927e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 606,
+      "source": "18601fce531059a2faee79d8b1d9881964b1fd486c837c99fc0bb970bcb9d7ad",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 607,
+      "source": "1a7d1dbbb35ef9f8e44672cac1cf2018b00f61fd7547c3bd0283c7336fc7d9f7",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 608,
+      "source": "1a94db598829589f75908a2dffd07030d76f3304606dfe7794e7204926384949",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 609,
+      "source": "1d7ffba898128163002177abf22766d368700f6504f4273db2481835d247bd14",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 610,
+      "source": "1e21cc5c368d9e015223dbac4771343d8acbb2b76c2ced5e49a319e1b1bb3f31",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 611,
+      "source": "1faede96e2c51b32425dd0e77867e9b3b790ab0724bcd763cc1f4ea331afac5c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 612,
+      "source": "20e375fe90ecf726ed1d482c0db90f7aaf7b166f595a65b7a592cc38a401216c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 613,
+      "source": "23d057d6150dddcf0e0a83e75d2fee86af4a52ce801e454539301431ad2d12fe",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 614,
+      "source": "254855329c0254463fcfd0a155a644bdf2b955fda0e338ab7b1ce9cfb4bacf26",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 615,
+      "source": "2599551f47cdb8515d126969fe26a968f9519bf6a2ebeb7978fbeeddd0dd9300",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 616,
+      "source": "2686f354cee5cbdbde6d4421577055f26a60eb8c1d853f7841dd12cb41d49b33",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 617,
+      "source": "26a96e68851c910ba49738157d5e5ac8b5ab6c1fe776de2647f443e8e36f88d7",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 618,
+      "source": "297ec1a0a369123845e17c413587e5ca71563008ceb91c5355162f3b9d7c5938",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 619,
+      "source": "2b8c862c81366fe5c8e7d3600216f7d5b80c1b10aa55b1540d18d5eb60461ccc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 620,
+      "source": "2cc88396c55f661fb52bf4cd17c6175a25c079596352986cc030cdb46c77f3a6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 621,
+      "source": "2dc3453e4d6fbfa651d2625258f5b6bfbf234b13c294f82bc66b39b75c0318e4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 622,
+      "source": "2dc77674ad9a14b32fcad2c9405d8d2d92fdd8b3ff7b98ada46a6f1558cd80db",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 623,
+      "source": "2ecfe579cfe9d6105a160f6d005ca6bcaa3cc6b04131ece0c909a50803a33ad0",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 624,
+      "source": "31b7482b422c3941ac6a11ab1b2760253cd8961701b7a012035522cbea98c356",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 625,
+      "source": "31fe70de9d9bd5a348f84e7523682106f3cbac1a8fe2603421ae4792c98f1623",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 626,
+      "source": "3280a9e88f44688005a0c7b4f3ae7b8593e2791f8168568dd63a229de7598dcf",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 627,
+      "source": "35177212789df9229865a2c8a025e2e68a41f248bfe9ee979360f8fe8dc856c2",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 628,
+      "source": "3554340b5a48b23c97a194f7b7bf1776a625cc789d77a0b835ad07052b679eda",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 629,
+      "source": "358892669ce9249d65eaaf16ef33c84d31f7c32e355f4acf23033b3b15c995fe",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 630,
+      "source": "367075d6695862c4493a7d39213ed66e50845e9ff3611a8212a2745ac2a8f1ad",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 631,
+      "source": "369d4bee8a232c19fb5ca45a2289822dcc0b1f1fd575fd7db35a9919d7d78f3d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 632,
+      "source": "36aa104a77f3477c7d6e0ec5b9cde40ed9d43dd1afd363718eef4a2f8e272005",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 633,
+      "source": "36f89d12c0c0226f5da438c2804a5ccd5505e6810e2daf7fb044dafd409aca5d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 634,
+      "source": "3731f27e6665dbb752c8a1a3417f0b8eb59e952a934c98e015563db6be9c5afc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 635,
+      "source": "377bc7dd25075830dffae3e80088ad088eb10e9e9ab6f341faf4b999752cf907",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 636,
+      "source": "38d33f3610b6897a49b7f2277689fc1a92619f25d621c31808decb08848ff2f1",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 637,
+      "source": "38e21661768ed76f443f3ecfcfc009dfa3297870e30731bb1c3a16ee6babfabe",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 638,
+      "source": "391de7caa6797b40467b1274be7b3b9241a79912813372ed40c061686dca3a95",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 639,
+      "source": "399c512883d199635f6233e27e7a7a3d5bed3eb7aab15083dc5bf9f265d2baa6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 640,
+      "source": "39b0022061709787cf48658c6fb8dd15731e66c4610fe9d75712366d74a2a7ae",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 641,
+      "source": "3a3ef9ad75e44d1feafeb60e4e8054e04f226db4f45c8598d5ed75216878e14d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 642,
+      "source": "3bcac890eee84445a798a20289599d44e664300658111da743a4073900a95a41",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 643,
+      "source": "3c7de7e24fbb1a48d6a302b7f81a1939560708b244193706851e985daa27cfe8",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 644,
+      "source": "3ea22fcbc9559df0c49efd5c847dc1b8e2bac974845996bcfdca20013aa22572",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 645,
+      "source": "421ac2ff62979abd1611571dabdbf69ca673add5f2802c550ef5da347ef4a012",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 646,
+      "source": "455b206ff2cf9f9db1ce0e10e8f98b7c0f63a5a7490843ccab05d9e664915b24",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 647,
+      "source": "476f486823c97394604a832898feebb5f74eb94245eb931e16e43f9ef5e9077c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 648,
+      "source": "484c528e94c1ca590ce089553358cf9256cad3191427c97c33e0f5ccc8dbe16e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 649,
+      "source": "4b95e1f850b1cf16c6117525ffee5cd0669bd8211ef9ad58507d7b3f3c423b9a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 650,
+      "source": "4c209b20eb9a0cf81dd831e226daa7521b348412956749b0859267b021b46508",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 651,
+      "source": "500c46e2f5d7065d8c492b0cfb36c3ba77a85a744079bf6453dfc85e02b97a3c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 652,
+      "source": "5110aff87b7391929ab30ffbd01dc57c9ce8f4576f7257db6ebb541d2b6053ce",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 653,
+      "source": "51179378d603a639c6a7158107977d2e58c7072c1be248366f3debde1b5066cc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 654,
+      "source": "5261d0b7ee9c4ca06e32cb1b4888d139beb9acbd009ac4eadcb859dda106b5ac",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 655,
+      "source": "5321e25088da9adf11b3455da3a3435ab7a81a5302c46fdb987f6521e65f4f07",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 656,
+      "source": "53b23674f9756ffbee2d8e24d622ab80c797f9380b881734a62d8f8383bd1f49",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 657,
+      "source": "53e7260d78101d4313f81b01e063e47dd3cc8974062ae4bfe8f9966d9136668b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 658,
+      "source": "55073f4ed8e7f803cb1412ad27e998fc4c59ccc5476597114703ee9210cc994f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 659,
+      "source": "5681e8705d15961faea00d3225aacbf31eea774faebf4a0b7df6e5903a107c94",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 660,
+      "source": "568bb30a2536d70ce4be156e2a98825eea9e20c45bd603c06678a07f5c5dfd04",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 661,
+      "source": "56949cdeea9c339621667f8e982efe68a6926cda46fa6c22c14662ac359ec78e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 662,
+      "source": "58e9aec52c45805cab6805931fdeb0c2a07612157dd7085b298be65db55eb093",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 663,
+      "source": "5af42f7b29116f3a377435738a7cada23e573e81998b6a34b1c3f8e137f18dbc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 664,
+      "source": "5cfabcb4e299b09666c2ddd5e586c9f5705fb8c1fb9b628473465722d42cfd43",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 665,
+      "source": "5eb3c30442e000e5cca7fd258ab6ace13428c3693754214790848537aa02858a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 666,
+      "source": "5ef5d6fccd6032f3ca4d2026eb0b98199436f7e280b58e95b5b1a5fff4f2288a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 667,
+      "source": "60fc8a38f90fc137e91ccb6877a0fd38e882f696f8837382615b71ec712e1e70",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 668,
+      "source": "62c8106f8afe8a3e0a3f6ab5245d6384f6f5f216333f1e73e0b5068b43833a7b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 669,
+      "source": "65e9f60b8ed02f4891ae1b7759c57aa2295a67d5d8008aece4dfe6a925dc8c28",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 670,
+      "source": "66abc4550e371062fe3fe5eeb1ad4362dfd3a8cf3e53d568ec8bfd5e772f900e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 671,
+      "source": "671e5f187e7db6b692b2b812ffad0cda7b22d61e008f12cdaf2ca45a099c77ff",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 672,
+      "source": "677cedd6da38cc94bf2fc2d1f002894b9b75297269fb8775ba64c8634339c627",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 673,
+      "source": "68a75502eb09f2fce11bafa903976e6ebd301cf882c9fec5d17b14f8a2f99778",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 674,
+      "source": "6b17042244a90f5fb4c1c95875e3153e136a8def40b32aeeace7b5a50a7c01a6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 675,
+      "source": "6c88492f949b2bcc2dc1ebc282bcafb272b5fa892c236e606ba9bcd6b95319ad",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 676,
+      "source": "6d36474a8491a431c9965b54c53a51538c4bba96752c9af72bd3d82b3f4a85ef",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 677,
+      "source": "6d6bed66ce3e74b682388888f50979c7ab563fdd636651b1e3b16ee4d3be34e7",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 678,
+      "source": "6d73bee0a96f6225aa34bef31b62743b657c1254023eeebf604d7bad83142deb",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 679,
+      "source": "6da2ffbb84b4b3d21754c472d7f5e729958e69bc3ea296a24ed215152c19b62c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 680,
+      "source": "6e501cb64c6075180ec65230eb5d60b98a565532a3c6367efd2bded8f30e8eb3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 681,
+      "source": "6e86fd9aa036ece2f4827477eb4f06973189e59aa1bbd67644dde85ae51cf17f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 682,
+      "source": "6ed3dd061cc183e90d3fe15fa0045855f24e0027a028a1b25750fb530cea0cb1",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 683,
+      "source": "6f4636871b1447810cccee23d7c432d19595069555d9c5af2940a987e6223d78",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 684,
+      "source": "6f92bad92f5ed2e838d27f3ee181301b0125f215eb9bcc856abec4e79973cd44",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 685,
+      "source": "708329b86ab6061f1adc9cd0c71b22b2e80fb88a60b15b799023e00b3e1dc24a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 686,
+      "source": "722df1d6a537db019f7bc0cbf839edda12fa08f9debec9e81e37df0b4496ce65",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 687,
+      "source": "73be4cbaf313e5af3f11d466d8991221e08bd3c9a22ed64f0275a786f1915d42",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 688,
+      "source": "7412eddf9952e8a749c671e67390a5d3554aca259372d8e19d4ff17bc0816905",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 689,
+      "source": "74f80dee68c66b6f73e5c95dbb5e36e35cfe82b6800c13d5153cea1f0dc394fa",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 690,
+      "source": "7512debcf6fc4857fcb2d42326c6787e227e59f819425dfd50dcb2fba37d37cc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 691,
+      "source": "7535f7a4981574e0a021740800c34216eb75540011e3c685694aa5317272fc16",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 692,
+      "source": "75ac452389f59bd725c6bf68f4521ba1471a556d30adbcfb5b29d1fa64fe023e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 693,
+      "source": "75f393a35dd2c29e2703d6693c1b43593718ed6afcf1a9e07a0e86d0c5e0b1a3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 694,
+      "source": "7666107c448d2234f43fcf14541e7bf958d41583e7ca38449f59547e030a5f6c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 695,
+      "source": "767ef7b4c31afd770cd2dfd17341af33ca3eec6a0018ad9cf9ef6c69c13c97a0",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 696,
+      "source": "76f707b0ddcb61796cede17b2af374b1a9f9c3856e214f6190db45a9a7d59a10",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 697,
+      "source": "778fb5214ca3559c563dc5f7e498f51285f45fa4fae0e04db78206b3b9c4304d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 698,
+      "source": "7898fe4fe87f61985faeff0c20476488180dca9545e324ce3710c8ac95d084f9",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 699,
+      "source": "793aa8808f567cd6552258c01904817b28d481c5224cce86c6b78bdd2721d42f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 700,
+      "source": "79bef32f8309a3e38a5c96e56a1e54bfd5057b58d4b000e08a5815a28bcffaef",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 701,
+      "source": "7baa41a3a61051f22e5e99400ae072f8a9a359d41bc47dc6172ec3b76e9f7ca6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 702,
+      "source": "7c0b26e35c50d5fad55665427fa3a87712a9e2ea055d87906c56c146228ae41d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 703,
+      "source": "7c6f323094a3da43bf4664e30bb84691b91ffa9bcaf88b834321062710bceffa",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 704,
+      "source": "7cfad80ed8df45124dce13a24dce66949b774750fe13ab9f3a29ae7ecf32d4ef",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 705,
+      "source": "7d184ad36e7785f3af0eeef6749f8bb23418fd1132b8c14090e351dbde9e9798",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 706,
+      "source": "7df40e532413e8125e874e0d93467862e9b2aeba436d7e78f9fb93419e68a6eb",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 707,
+      "source": "7ee07aebfe8997bd5c57f958e494b9468fd788b10a73a7f390e777e7602f938d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 708,
+      "source": "7f816c8c5d58bab9547b2171ad8a4c68915259cdd4c659573a535cfe716387b4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 709,
+      "source": "7fc724b97720558c8368af9ba71a65c100eb8cf912904d40bebd69498d87c489",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 710,
+      "source": "813fd3fe142c2c6a82a3c4d9f0752f7ea0a12e3c051fbc5c6e47417d3d097a1f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 711,
+      "source": "82b8711bbdbd0339337db43a5964b53a522ba31c8b766941dca9299755c8f190",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 712,
+      "source": "82fb6d832a93ab370a235ad1da788e4c00e869995829f368f4d58225d416b365",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 713,
+      "source": "83242feddda09c84dd7648adf3b58ae9a02eafed278933423ac749f786345abc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 714,
+      "source": "834c71734fc6257e459b03759bdf40a8f010d968f9b051533ae2577f4ae2f403",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 715,
+      "source": "839e441d971b5032b74387b4c6ad73e4a763066ae091e72d34ff2d8f33b5ccda",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 716,
+      "source": "8477e24640fb56d2644a2460b57c3e653e259d8eb768d87d7342983389c5d4fb",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 717,
+      "source": "8709b7a762ebfb915d7500413bbef14db7a3c96aefa729e255fafc97441b7625",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 718,
+      "source": "88ff2263d35206c0152a9569cfd8f41789398ddcc60351bf9b7111f35274b166",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 719,
+      "source": "89526e779b3ef99fe1a115262f58d9ad2e7f0012e62a8f86b59ab7c3f770e2d4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 720,
+      "source": "8a441bf016f67aaa0f21112bfbd35a032f157df1869f5b97154063f527891151",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 721,
+      "source": "8a946044d3d5c1b22cc7990211c01ae53ee48af50e65ffdd426c3cb2d58ebe16",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 722,
+      "source": "8d08c943af8c0783ac007753d6450fd5a5828e129e199d943015f2b45c54be9e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 723,
+      "source": "8f41f3d185b0de0fe9197e70631c7fa148180067ddd8d95e87ca1aa2ecd1807f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 724,
+      "source": "90521f05d4c3c2fc3f15475e8d00a7af52111db2f8884cc8befd9aeb14b661ed",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 725,
+      "source": "90f777c4cf0471e5832ed22f5bd79bfef6be9dcef7f26f5655af2e7b4df91e71",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 726,
+      "source": "90feebb241d179173583a55dcc2a072775de44e067038d60513c6c366d4eeeb3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 727,
+      "source": "92a1d48c1f1b08a495abbc40d999e54f6a2fdb910ecf40cc9675aeb917db3b5e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 728,
+      "source": "93674f451227f71e21513aece38ffbd9de074ff66434bc640c5be7d0e52d5d41",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 729,
+      "source": "93ced17f4532f10811fe84d12c5b7c366e778f5f1cde4da0923be991d10a2305",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 730,
+      "source": "95e4ed37a0b7fbf54e713a9cfc6fc66aa9c3bb5ce170914576ffb125364f6e7b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 731,
+      "source": "9653b4b36b43fd6e4a556e11fce2383dabdabb70ae5793da9177922bbdb4c6e8",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 732,
+      "source": "98a86b64f2ede209013c67f47f6ed288723db2d707d1f7ca0fa00409dd55b2fe",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 733,
+      "source": "99d400c5192164cf65246de5d2c91e54e6a5312655288503487946d573efa0a0",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 734,
+      "source": "9e88d467b31b526f0cf3732264d72af070365a87edfcbcccbe0f9a3845a30974",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 735,
+      "source": "9f0edb4a349a72882d2526d2f77edd7ab85bd594128e1f6596b905f9e0a9d8d6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 736,
+      "source": "9f9d4356fbfc6f750225be8706c3c87c80749db66d5c68edaf43612c936909f2",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 737,
+      "source": "9fddc984d5c02565fd12b248572bed264d11f810f51c15cc071272837db29ed4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 738,
+      "source": "a00621e2838535650cc053346039c394cb920e4166eb08785c68b8cc8e65bbec",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 739,
+      "source": "a55b9e4172cde4c6441feb878a394c202b269bda1e9f4a7a61b41da7ac4fe85d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 740,
+      "source": "a6764f42e7608e539fd3b60c663b8f3bfc7d863fde46b2f41cc1c3dedd92c724",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 741,
+      "source": "a7076ebb0a338b718a02a4428f4e04d614832513d838e23e01449f6377fc0d01",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 742,
+      "source": "a73890705e7a0d3e52254d0aec000ed0307968450e10f860a7b7e45fe9e085db",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 743,
+      "source": "a7848a058d4eb08b6f4faaf3dd44c0a956650205748301236b17426d57097aa6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 744,
+      "source": "a8e91027261d33ad4c2058468f1b0a058fabfa6c29c4abfc1a0c9d42a80fe8f6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 745,
+      "source": "a91fc566e13d3253050d35b898b8ed659905a8268847ef06c1f7733757cb8788",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 746,
+      "source": "a9d5c1daaaeb00a1819b3b9ef87bc8f5fbaabb37e3e2e1320ac344ba61b606ca",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 747,
+      "source": "a9f3ed313d7494096d51b11a7bc6c5165cca735903f3d581f4d0df639572c294",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 748,
+      "source": "aa1149e239a31e679e30cc8b54cb5e7891f110ad1befdf8530cef58a206d4188",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 749,
+      "source": "aa18ffe8e33f56dddfd1b88fd54e89aeeff1983c71b9f325c6baa021320c185c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 750,
+      "source": "aa62a9634b38443e309b0122922048462238f4e45b7ebcb949504da4e054b0b4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 751,
+      "source": "aa7381ffdd6b16a56243d4dd16b4ad62a8aed4e1aeafca9fd1b78aef7f376f83",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 752,
+      "source": "aa7779ddbe6690026ad73c6d12f24f573e5b3be527edc064c10344d5837a8d22",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 753,
+      "source": "aa83932b2073c75a818549dce83101bbaa764b2e705103289a8df4b22e01bc75",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 754,
+      "source": "ab9e9667fd3cd58c3b532936c69b4dbb117d5671334e5bcbaacb3722a22162ea",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 755,
+      "source": "abdec7a1f84a30c28709f0e373a165c912a18f15aa8e7c992d4b5b0314fc0038",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 756,
+      "source": "af626cd84902cd7b4663043a36a81d0a019d954d9607879f6f7aaa96130441c8",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 757,
+      "source": "af9f0321f3acedf982a652f5f2e9310a783d3ec890c80e4228a66646e9afced4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 758,
+      "source": "af9fac336367e2b8b4e7314d428fc1fb3390401a1670787a3419940157727388",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 759,
+      "source": "afb29b73d7fae466b00ad572d37ae5be308ccd91cf57c82309331ea58ebd3fa4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 760,
+      "source": "b08da27dbdb393b157c42e014b712358edfcc210a17b78e8b993ed0e6186f1fd",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 761,
+      "source": "b5856bc3695fba2b9ace3caced3b1c783930b3c24380e8fea8ab079895f75c46",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 762,
+      "source": "b5b5718577b5522fedde36f8e22811226cb305fab86541b391b551068998608c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 763,
+      "source": "b65f1e18d496df96231807c74aab701d680a5d529be56ad97497f6f52443d977",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 764,
+      "source": "b6660efc8a7cc57b7da616766b14c06812254c0422d48bfa0860db753c4f6cdd",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 765,
+      "source": "b6870a0cc504de5913c485b462c538bcc6242771cf4fe3f2cb22ba37cae0483a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 766,
+      "source": "b74f577a82e82a76db9450526b2fc5863ecc761cfb6d243fef8907559711afb5",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 767,
+      "source": "b80f700f2871cde38bff5a8f0c5adee3731e86116b3e4b1e2eadcfaa1966dd3f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 768,
+      "source": "b8f33836036497d5b83075b2bf5a093601ecf13c4c81d35a1f3af008dfe52dc3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 769,
+      "source": "ba221858d8d1a1c17d7eaaa1ac72a33345cc803ba1b96620a576113f7dcabcdc",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 770,
+      "source": "bd202f91ddd89c3727996d411e6330301df47bfbce8627e909dcf5cd3ab12636",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 771,
+      "source": "bda65326f1b3d151f35170e2f1ba61bffc1ee388bc601b55837211071db12d4e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 772,
+      "source": "bdc8d32308a3eaaa7153b16c4ebd6e56ad346377708fedd172da28de464dbee8",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 773,
+      "source": "bdfee0b1201604e89f9ed8953bea9f820375c70335c109fe7a434c326868f9b4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 774,
+      "source": "be507963548917b7dc2379663a1d7fe3daa06cef391b4a7ddc5319dc8bd20e03",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 775,
+      "source": "bebbae671824925d0537d8c3306120c58e1f2dad688fbe8c2057d32ae5eae13d",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 776,
+      "source": "bec8cea242698b86eb179223494c7dba93a12e6e92c673623ce2148edc628b47",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 777,
+      "source": "bff8b23555a6654dd5a240992aee08df5e9b3fe8c688fefa37cf17bc9c2b6a3f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 778,
+      "source": "c1233156b17a5bbaefc9700881b44fb512cc4ba12bf00b8718af00addb34f6b2",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 779,
+      "source": "c138ff00ac535bc21ff492590b04a5c9df13bba39bda6f47dd91cb88d980186e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 780,
+      "source": "c392db16cf6ba4967cde4e61b1f02d64d396b09c4d4a11784fddf940c0a41743",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 781,
+      "source": "c3e8d16676654a022b58559e9879e882476a25c57be200044140b0e08ce73a11",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 782,
+      "source": "c408389639cce8c2da2ba020370457279429b80420e7379bb997392bcafd03d5",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 783,
+      "source": "c4f1027db43a4cc746e12b1dda42f5d1728ecc093ee73bbb2ec8961e4aaa72cb",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 784,
+      "source": "c7b3c5e309632173863586042983ce86c7fe5813d24e1f23d00803ee66436692",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 785,
+      "source": "c81fdfa4f7e457c21bbe7dca824ffcdb602dadf60aa59f6aeaf4ddc71054386c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 786,
+      "source": "cb8db299c4721fe71c11b8e12b8cff93eb0ff2bf4581d3db218f4b2226a18166",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 787,
+      "source": "cc4ce3b9394afa13e4715d4ef0f878fb2982a0b52c5b4b1561e0eff80d6dedcd",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 788,
+      "source": "cc919de8775d5528872dc90d26ef796a64e73bfc04310d1a993455ce7a3a9f39",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 789,
+      "source": "cd2120b467030e47514308711746992fd0834b7d686cc767fdab0a12b0cef562",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 790,
+      "source": "cdb3dc250fecd3608553c3096fd76e9ce844ead8ae3f0be8cd361542c81a980a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 791,
+      "source": "cdb86540a847d39765c21a839855cc7b81fa2c4a8637f77957378dccb011834e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 792,
+      "source": "cf3abc2609997d757cffee43193a1c17b3f17bfd96934e41be168254ffa0770a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 793,
+      "source": "cfa49c7eb0958b57f8eb2f4c63042b188f3290ced92c015e774c8553e8431f3b",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 794,
+      "source": "d1487d000c49a0716fce28609f58883abb52df0618a64878f2fee5d534de4b04",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 795,
+      "source": "d16f1da313957faf235d8b3319b98f23d41395d05fcddf550f692492ade469e1",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 796,
+      "source": "d201e7c39a88ced01e99e541d0f6ba4c7c24ccd5091a8c86973187459146fe88",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 797,
+      "source": "d2332e2fe067d2143cd44ea60dd023bf5311a74617b761eaa197096cbe0479b3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 798,
+      "source": "d24aed54c31d2d10b72e7cc27b0d82ed4eaca0a056143d8c6d43aa860bf09779",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 799,
+      "source": "d2ba33bf399dabc564bd17c2a3b104d832decf6eaf585ae09e3d3a3eec1911d3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 800,
+      "source": "d30fc667041446291f87d08fb7c8d578e5d4d8c01dd69967401da2b039b2f6a6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 801,
+      "source": "d31139e157f9d1b8f7021dac0124019d63847626960bcdc49d98caccd9233e74",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 802,
+      "source": "d47e69763a49d5d5a927a191715710198c5ecb75673ee835d645b8bd71d25e92",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 803,
+      "source": "d526f36419cd66b2269d6ee46f3e18e798ac6dba9657676359566d7268ec666a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 804,
+      "source": "d56e3eb807f29dc2b782b7b59d1daea82e5fcab810256d6b1d88f7993841bce6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 805,
+      "source": "d59af1a5f35ba00a9cfd9ef828b4817d110dde01008cf5132f33b852afb0e9f4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 806,
+      "source": "d5d3daf656fa4d7c7a66cdccbe90b7b1eed94725446f6b228f02620deabeb64a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 807,
+      "source": "d665bb3dd97b6c0b86930a6d78ac060d5acf91e74ffed2c7d06a3d28d6c0625c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 808,
+      "source": "d8ee841afe3d24b39a3f1f5656780b75ce9b1e1b6bb11cb6953a99d0cbaaffde",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 809,
+      "source": "dad964a1298e0e8550c652c2f6cd3dacda7096290117e4f96c499fc62f7e425a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 810,
+      "source": "dbe4aca05a9d06d4a3bd854f5e957943f09d6fc1995c92b4f1022f046dbfe742",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 811,
+      "source": "dd0e2f8a2c6901cc540c53aa7194af40fa2e8ed38a0825608e1b56c846fcf01e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 812,
+      "source": "de6826749f3a7b68e11a2395976c1bf9d818ac21c9920bd160138fd81f711ba6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 813,
+      "source": "df10830ccfd38fff5d9e418be80162e0846ccc33cb6a10e2143a8b2ae4c59e70",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 814,
+      "source": "df2347ec3e9637adcc36294b8a7b18060649129cdf2a7c23eca2ccccce60d227",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 815,
+      "source": "df878735886705a5cf3e8d4024cd8d2729fd16cbb8696a289a7252b1854e7f0a",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 816,
+      "source": "e0161a0bc31d0ddd2dfc780255faf3b92600172bac62383da6f060315a72189e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 817,
+      "source": "e3c440844067a1022cabe8d8ab71283fda70210f94da1394f9296a58ed380ee6",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 818,
+      "source": "e48252b233324d081b482e4986db38a764533dcb1fa07f7a12d3adc9eb65ab88",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 819,
+      "source": "e4bcb2a80023991c71e22dd292b0b159ace79d9bd3f19532085f85fcd47629be",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 820,
+      "source": "e8a366fe396aaaea124716a1baad189f43971bf78b88e4a4c4c8bbd3ceb849a9",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 821,
+      "source": "e928a260968ef82b0767cbb1d3e3115ace8935854db15d712e4b3c49c0c48aec",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 822,
+      "source": "e93030abf5c2b941529e6b105767aa0a6edd92b18c96792a2ef07865c39d7253",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 823,
+      "source": "e98e59bf3ee6869a2f29c25a96f54c99f2aa159b1630595b3073465d26b5f807",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 824,
+      "source": "e9ecee694c4e4f78c234679f04f199bf2711599a59a22efc4b87af4ce7962e7c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 825,
+      "source": "ebbb23464a4c5be52235fd3088e89930c60802de487a1fa1c608bee259a48526",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 826,
+      "source": "ec6211d4c5f7d0f8418890fe2034d8dca7f0657eec769543f57c2b9f18b6b009",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 827,
+      "source": "ed60e7a1a857970c205dd4a58c5290c96cd1fe723559b7928615c869c684d7d8",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 828,
+      "source": "edfda57ed4467e635baeff00654d9774bd2e94483c0e1a28c59b5f7f34240807",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 829,
+      "source": "efa2e345933a082a83e015e77c8a6f478cc33c5a28cc4e46c9e6ce53d3769a73",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 830,
+      "source": "f0162be4de935f4064486990a524a4b7b8a816bc0a39f8fff3ee58034546e9e0",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 831,
+      "source": "f12aea95221e055b3707857a161825be6d9cd40cde27d53107b7009bc8a6a0a4",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 832,
+      "source": "f15af60ae8db80ad345879098107b51cd4b89e1eb225a90a326d71d2be56e915",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 833,
+      "source": "f3c2363177cccfc7bce51d78484f54ae42db54a2ad878b1479c5d0d0e2960872",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 834,
+      "source": "f3fa6a34aecaa1af2e1e31c2359b1d730f450c166377a622ef29f85848c26c54",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 835,
+      "source": "f4fea54ba383909b5e71c25f1d327425d5e102fb4619e590aa94933044d828a1",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 836,
+      "source": "f5491face05957d5c441d52295f15e0d9b917ac2500cd84d8baa0f2d2c39f75f",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 837,
+      "source": "f612a5beb338b77905658e99b54486ec4b76eef3ab30b65798dded7ce44c49b9",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 838,
+      "source": "f8f182527157c5fad4a77848f79231a203f2366ed8cee3eb7d0dee516d3f1143",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 839,
+      "source": "f965707a2b7f4645df819d433fa24ed2e5affcb4e492b6b7154505fbb5136c8c",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 840,
+      "source": "f9875ed804f7a3595505650f60bd511262c904e4ddbdbd9aa4a27450c9237e39",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 841,
+      "source": "f9e12ac424ba0e9d72834084fbfaa1a746b0ce109ac3fe28fde658008aa33b78",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 842,
+      "source": "fab5744932d1ec330661ae33284428e376683c02514119f63c6de5d7e0de8f5e",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 843,
+      "source": "fcbea3daea2af57f5ecc704b6c61ac4c61a7e1e8ed047f8152b24c3c269f79a7",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 844,
+      "source": "fd1f86fe4349e991e98e1b00c1b1aa94088669822cdb30a5c0dfffa5782134c3",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 845,
+      "source": "fe216505917b1c9c31f5925244ff60cda229409dc13f9c4f39f0dccec4e90efd",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 846,
+      "source": "ff6cd63f155b15695324ac6f4c9bc5ca1b9ddc7561c38eef5816bd9b1584ceae",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 847,
+      "source": "ff83258b9529bc80bb6c6114e052611fa238ff45bdc6715087441529c7ebc2ba",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 848,
+      "source": "ffd21c5983d44ff61cccc9fb15c6317e1d4159a931f5f4949d6524bff72b0d70",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 849,
+      "source": "ffe760f0e5b5f36859d09e5fa35ee754c2d4da0102a326c70293842868be4869",
+      "condition": "blur_0.6",
+      "split": "EVALUATION"
+    },
+    {
+      "bank_index": 850,
+      "source": "016b5b6f235e54cdd6dca76d0d03087e5d25da7e36c018ff1dfa240c4b8fabc2",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 851,
+      "source": "02a6e790f7b37da8d0a2b260ee564e697dfcc590fa5b1f1ab27c5b9c26c3aad6",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 852,
+      "source": "02f72f8806f8258dbe04ca27f5567f30eafe0474336d6e575583707dfeda4d21",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 853,
+      "source": "032e85df219d8d28b260d21b4171114711cab98cf525b8f61d832efd483723dc",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 854,
+      "source": "03d0c7947ba20593012275692691070501daf9609168f2eaec15dae935dd5adf",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 855,
+      "source": "0488dd21d5ea64366bf55529ed2cf05ede3b19821d82c6903f3a1bfc863792df",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 856,
+      "source": "04fbf0f1dc088c1187e0c79ebec84cc1722cf47b27f2f1f6ae072e81c106e6b2",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 857,
+      "source": "05e6927be61b1d9bd07e1db2f674b251dc41c931162b660e9a610f58f4a82fb3",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 858,
+      "source": "05f93afa29cddd07d19c79859070b8a0d40751d94f29d01aff714196612ef253",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 859,
+      "source": "065a209c1ad451653cbfc914049240bed53e353dc91d0b7dffebc2b476542deb",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 860,
+      "source": "091a8e314a4cb03c29f24785e0cfc314211de5c2fbb84e11bb71b6c083e130f4",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 861,
+      "source": "0b080d23a13460c53c5eed5a92109aa9f98f2418ba7e84b7b305ea68597e7530",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 862,
+      "source": "0b1e990ceddfbffac2d54d03573f2fca9409d42cc81722f3ae2b6b030efc5826",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 863,
+      "source": "0b234244c6ade925e1f08de73700d0682ea31fb8f25c3245ebf8b7b18604fd16",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 864,
+      "source": "0b60560ad9252b5c0f1187c7b5a6a9ec732157ac79b0bd11493cc3b6d44bd3e3",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 865,
+      "source": "0b994c808e2305028287cf23aa342f180813de9194fa902e63c8601ba4c0bad7",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 866,
+      "source": "0c0f06d3952f180bb6723d619b50a5ff1c676fe14bfffe037397019f92e4b71e",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 867,
+      "source": "0c18abd9ca29890c846e8f8515ea5b676f927333169180b02c83cfe0fd258d00",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 868,
+      "source": "0d25cee992679e08246be6763ef5cc97be495c201c3a16013f077484d3e2b836",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    },
+    {
+      "bank_index": 869,
+      "source": "0d29b05f6ed3fff32332f948e29f439851afd6d27dc713b2785538cd12f69b8a",
+      "condition": "blur_0.6",
+      "split": "DEVELOPMENT"
+    }
+  ],
+  "head_fit_overlap": 0,
+  "preprocessing_in_timed_scope": false,
+  "runtime_label_reads": false
+}

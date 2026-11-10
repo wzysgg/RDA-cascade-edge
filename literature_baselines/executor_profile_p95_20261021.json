@@ -1,0 +1,142 @@
+{
+ "content_sha256": "e6e51bdb7e24d170ee3d5d6cc1fcab93914ec7d8fc8b3b19213645864c51bd7f",
+ "definition": "95th percentile (numpy.percentile) of actual independent return - controller dispatch per batch kind and actual size; cells with >= 30 samples",
+ "median_profile_sha256": "1a6a89cbc6b01cba879070308374cf3d803de92408493f236f69f6aa1f45c37e",
+ "medians_reproduced": true,
+ "method_independent": true,
+ "note": "Built from adapted EdgeServing runs only, as the median profile; used by RAMSIS",
+ "profile": {
+  "ACCURATE/1": {
+   "p95_ns": 6011509.849999999,
+   "samples": 7900
+  },
+  "ACCURATE/2": {
+   "p95_ns": 6313130.5,
+   "samples": 21003
+  },
+  "ACCURATE/3": {
+   "p95_ns": 7396362.7,
+   "samples": 7572
+  },
+  "ACCURATE/4": {
+   "p95_ns": 9087857.15,
+   "samples": 2294
+  },
+  "ACCURATE/5": {
+   "p95_ns": 10782962.2,
+   "samples": 465
+  },
+  "ACCURATE/6": {
+   "p95_ns": 12523478.1,
+   "samples": 147
+  },
+  "ACCURATE/7": {
+   "p95_ns": 13956677.5,
+   "samples": 31
+  },
+  "FAST_FULL/1": {
+   "p95_ns": 3880450.8000000003,
+   "samples": 44993
+  },
+  "FAST_FULL/2": {
+   "p95_ns": 4101234.05,
+   "samples": 32290
+  },
+  "FAST_FULL/3": {
+   "p95_ns": 4328444.499999999,
+   "samples": 15900
+  },
+  "FAST_FULL/4": {
+   "p95_ns": 4588410.799999999,
+   "samples": 6373
+  },
+  "FAST_FULL/5": {
+   "p95_ns": 5592048.3,
+   "samples": 2067
+  },
+  "FAST_FULL/6": {
+   "p95_ns": 6380226.799999999,
+   "samples": 697
+  },
+  "FAST_FULL/7": {
+   "p95_ns": 6828088.1499999985,
+   "samples": 210
+  },
+  "FAST_FULL/8": {
+   "p95_ns": 7506030.499999999,
+   "samples": 83
+  },
+  "FAST_PREFIX/1": {
+   "p95_ns": 5006085.0,
+   "samples": 16083
+  },
+  "FAST_PREFIX/10": {
+   "p95_ns": 11031585.299999999,
+   "samples": 55
+  },
+  "FAST_PREFIX/2": {
+   "p95_ns": 5131000.199999997,
+   "samples": 18513
+  },
+  "FAST_PREFIX/3": {
+   "p95_ns": 5346937.6,
+   "samples": 14733
+  },
+  "FAST_PREFIX/4": {
+   "p95_ns": 5606378.6,
+   "samples": 10053
+  },
+  "FAST_PREFIX/5": {
+   "p95_ns": 6251147.5,
+   "samples": 5346
+  },
+  "FAST_PREFIX/6": {
+   "p95_ns": 6937619.0,
+   "samples": 2441
+  },
+  "FAST_PREFIX/7": {
+   "p95_ns": 7345838.6,
+   "samples": 907
+  },
+  "FAST_PREFIX/8": {
+   "p95_ns": 8059891.8,
+   "samples": 337
+  },
+  "FAST_PREFIX/9": {
+   "p95_ns": 9052992.299999999,
+   "samples": 107
+  }
+ },
+ "ramsis_fill": "author profile_utils: least-squares line over measured sizes, measured kept, then lowered to the next size when larger",
+ "ramsis_sizes_1_10_ns": {
+  "ACCURATE": [
+   6011509.849999999,
+   6313130.5,
+   7396362.7,
+   9087857.15,
+   10782962.2,
+   12523478.1,
+   13956677.5,
+   15102110.807142861,
+   16517925.008928575,
+   17933739.21071429
+  ],
+  "FAST_FULL": [
+   3880450.8000000003,
+   4101234.05,
+   4328444.499999999,
+   4588410.799999999,
+   5592048.3,
+   6380226.799999999,
+   6828088.1499999985,
+   7506030.499999999,
+   7874133.494642854,
+   8423803.885119045
+  ]
+ },
+ "schema": "executor_end_to_end_latency_profile_p95_v1",
+ "source_runs": {
+  "/home/wangzengyu/edge_paper/research_experiments/clra_autonomous_research/PRAA_M5_PILOT/validation/s0_added_degraded_load/EdgeServing": "6d291142dd33c2ce27ae9205ab1bcf796479bfd193274d447caf61046553c255",
+  "/home/wangzengyu/edge_paper/research_experiments/clra_autonomous_research/PRAA_M5_PILOT/validation/s0_normal_highload/EdgeServing": "762ef98c510b08b975e656b9e3bedf0041890595f4ca171990a46222e78512b9"
+ }
+}

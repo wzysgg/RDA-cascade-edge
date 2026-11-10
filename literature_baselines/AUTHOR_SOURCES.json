@@ -1,0 +1,33 @@
+{
+ "schema": "literature_author_sources_v1",
+ "retrieved": "2026-10-19",
+ "proteus": {
+  "repository": "https://github.com/UMass-LIDS/Proteus",
+  "commit": "6967c93",
+  "files": {
+   "algorithms/ilp.py": "3c5d323d333a2bd1ee095a604cf89d489b8dd7ef3c6d947f00f2ad0d2e2e8846",
+   "core/predictor.py": "87604b0cd7aa712c8f7e62ab940c441dc34a776dc1518e2d64ec94cb9c757eab",
+   "core/simulator.py": "e69e95e45e8a9fe78692a02050cb6cb9120537098c1136339cf13c6c24ec8425",
+   "run.py": "a5a9c596ce8d3ba4e5609ff5faf531a704a2ef1382312008f80df0d3672831ea",
+   "configs/medium-normal_load/proteus.json": "92c4da754255c7f603e2c4ed7e125516cea5c201d3970014ec405207ae14d135"
+  },
+  "paper": {
+   "url": "https://guanh01.github.io/files/2024proteus.pdf",
+   "sha256": "bc38b4fb1778caa8f60941e37e52f5c9bdd9af67c12c3a435147460ce5e31864"
+  }
+ },
+ "clockwork": {
+  "paper": {
+   "url": "https://arxiv.org/pdf/2006.02464",
+   "sha256": "ece88f9e2622c33189a329b089d9c89285ab6231cdb83d8097711f7592a77bb0"
+  },
+  "code": "https://gitlab.mpi-sws.org/cld/ml/clockwork (osdi_2020_submit) not retrievable from this network (TLS reset / HTTP 429); rules taken from the paper Sec. 4.5, 5 and 6.5"
+ },
+ "symphony": {
+  "paper": {
+   "url": "https://arxiv.org/pdf/2308.07470v2",
+   "sha256": "5d76f1195d8e0b73f5a8bfcbda21d4e403262fcb1615e0eb6f9709c8e8ade93a"
+  },
+  "code": "No public implementation found; Algorithm 1 of the paper is implemented"
+ }
+}

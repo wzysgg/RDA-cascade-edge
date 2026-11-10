@@ -1,0 +1,262 @@
+{
+  "schema": "ordinary_eager_remeasurement_services_v1",
+  "measurement_sha256": "704e6379b1e2935fc3914bd3616dd4f74ccff826e147e3c95deae40d077d0d25",
+  "measurement_path": "/home/wangzengyu/edge_paper/research_experiments/edge_eager_remeasure_20261017/validated_run/measurement.json",
+  "reference_measurement_sha256": "d16320a1c99abcde29ddbe0238872f96b9cbb5ed74a6ed5f438b933a3bf35d4a",
+  "execution_mode": "EAGER",
+  "cuda_graph_used": false,
+  "calibration_git_commit": "12786c3c3c06889c986ebc72b86ff55a55e8bc27",
+  "gpu_uuid": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064",
+  "gpu_name": "NVIDIA GeForce RTX 2080 Ti",
+  "model_sha256": {
+    "Local": "61340347dae8f844de15881fd02bc91ff2bb0c8b30aa3a79445a49ce1f239c54",
+    "Fast": "18b5b7b17f92dd8e30e3d942e6ce2d1901a9bb5b2c002b84c19eaa1dd3d7cfcd",
+    "Accurate": "dbaa726ea04e88a5cfd6fc290aa914fbc09279ce4c094aabb2f43d8050c63507"
+  },
+  "environment_sha256": "533e2a4c70835ebdd2e32cc04ce42e1c755f2d858f479265cba6b6b7abb54314",
+  "manifest_sha256": "4eb43bc94393f18ebdb20ccfed92a72368f646fe1da68047e383e88487c01573",
+  "timed_bank_indices": [
+    0,
+    23,
+    46,
+    70,
+    93,
+    117,
+    140,
+    164,
+    187,
+    210,
+    234,
+    257,
+    301,
+    324,
+    348,
+    371,
+    394,
+    418,
+    441,
+    465,
+    488,
+    512,
+    535,
+    559
+  ],
+  "all_measured_predictions_and_quality_equal": true,
+  "summary": {
+    "FAST_FULL": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 2.011664087904824,
+        "median_ms": 2.0007840394973755,
+        "p95_ms": 2.0845439434051514,
+        "stdev_ms": 0.048436210500529535
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 2.0283962583333333,
+        "median_ms": 2.016762,
+        "p95_ms": 2.10112,
+        "stdev_ms": 0.050017979585700825
+      }
+    },
+    "ACCURATE": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 3.885265776846144,
+        "median_ms": 3.846448063850403,
+        "p95_ms": 3.998879909515381,
+        "stdev_ms": 0.12706481660772656
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 3.9058345111111112,
+        "median_ms": 3.8696355000000002,
+        "p95_ms": 4.018932,
+        "stdev_ms": 0.128598287274558
+      }
+    },
+    "FAST_PREFIX_ONLY": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 0.5097953773207134,
+        "median_ms": 0.5043200254440308,
+        "p95_ms": 0.5411520004272461,
+        "stdev_ms": 0.022046917117513082
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 0.5307921083333333,
+        "median_ms": 0.5240765000000001,
+        "p95_ms": 0.562461,
+        "stdev_ms": 0.024753268649795636
+      }
+    },
+    "GPU_HEAD_NEED": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 0.6880514671405157,
+        "median_ms": 0.6784320175647736,
+        "p95_ms": 0.7268800139427185,
+        "stdev_ms": 0.03713442000754161
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 0.7075530555555556,
+        "median_ms": 0.697214,
+        "p95_ms": 0.745888,
+        "stdev_ms": 0.037843396860204166
+      }
+    },
+    "FAST_PREFIX_HEAD": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 1.1815552012787924,
+        "median_ms": 1.1690399646759033,
+        "p95_ms": 1.2401599884033203,
+        "stdev_ms": 0.037523936985583255
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 1.201611525,
+        "median_ms": 1.1886649999999999,
+        "p95_ms": 1.258807,
+        "stdev_ms": 0.03800347427988646
+      }
+    },
+    "FAST_SUFFIX_ISOLATED": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 1.5940616014930937,
+        "median_ms": 1.5893439650535583,
+        "p95_ms": 1.6502079963684082,
+        "stdev_ms": 0.06708239934476773
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 1.6188697416666666,
+        "median_ms": 1.6142850000000002,
+        "p95_ms": 1.67643,
+        "stdev_ms": 0.06814725816475076
+      }
+    },
+    "FAST_INLINE_CHAIN": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 2.664046761724684,
+        "median_ms": 2.636399984359741,
+        "p95_ms": 2.7215359210968018,
+        "stdev_ms": 0.15883002691106646
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 2.683237572222222,
+        "median_ms": 2.6553335000000002,
+        "p95_ms": 2.740246,
+        "stdev_ms": 0.15942788386664153
+      }
+    },
+    "H2D_INPUT": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 0.06578568836881055,
+        "median_ms": 0.06539199873805046,
+        "p95_ms": 0.06659200042486191,
+        "stdev_ms": 0.0020133724618444076
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 0.090552725,
+        "median_ms": 0.0898335,
+        "p95_ms": 0.092927,
+        "stdev_ms": 0.0028812257052915637
+      }
+    },
+    "D2H_DECISION": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 0.023575911106955675,
+        "median_ms": 0.02319999970495701,
+        "p95_ms": 0.02489599958062172,
+        "stdev_ms": 0.0017131911342984656
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 0.04046951111111111,
+        "median_ms": 0.039863,
+        "p95_ms": 0.043024,
+        "stdev_ms": 0.002213108576393585
+      }
+    },
+    "D2H_RESULT": {
+      "cuda_ms": {
+        "n": 360,
+        "mean_ms": 0.020930311151055828,
+        "median_ms": 0.020608000457286835,
+        "p95_ms": 0.022112000733613968,
+        "stdev_ms": 0.0014769794797762838
+      },
+      "wall_ms": {
+        "n": 360,
+        "mean_ms": 0.036719625,
+        "median_ms": 0.036236500000000005,
+        "p95_ms": 0.03884,
+        "stdev_ms": 0.0020038237836494557
+      }
+    }
+  },
+  "block_service_means_ms": [
+    {
+      "FAST_FULL": 2.0936898615987354,
+      "ACCURATE": 3.974823461674775,
+      "FAST_PREFIX": 1.2697509301515917,
+      "FAST_SUFFIX": 1.5233626786153767,
+      "INLINE_TOTAL": 2.7931136087669683,
+      "GPU_HEAD": 0.6883432000875473
+    },
+    {
+      "FAST_FULL": 2.1011591939255596,
+      "ACCURATE": 3.9728272018954156,
+      "FAST_PREFIX": 1.274525602410237,
+      "FAST_SUFFIX": 1.494902669203778,
+      "INLINE_TOTAL": 2.769428271614015,
+      "GPU_HEAD": 0.6864672010143598
+    },
+    {
+      "FAST_FULL": 2.1002912067497768,
+      "ACCURATE": 3.96829466552784,
+      "FAST_PREFIX": 1.2684738697018474,
+      "FAST_SUFFIX": 1.4920002669716872,
+      "INLINE_TOTAL": 2.7604741366735346,
+      "GPU_HEAD": 0.6893440003196398
+    }
+  ],
+  "telemetry": [
+    {
+      "block": 0,
+      "telemetry_before": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064, NVIDIA GeForce RTX 2080 Ti, P2, 1920 MHz, 6800 MHz, 37, 134.08 W, 41 %",
+      "telemetry_after": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064, NVIDIA GeForce RTX 2080 Ti, P2, 1920 MHz, 6800 MHz, 38, 99.11 W, 51 %",
+      "samples": 1200
+    },
+    {
+      "block": 1,
+      "telemetry_before": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064, NVIDIA GeForce RTX 2080 Ti, P2, 1920 MHz, 6800 MHz, 38, 118.13 W, 51 %",
+      "telemetry_after": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064, NVIDIA GeForce RTX 2080 Ti, P2, 1920 MHz, 6800 MHz, 39, 137.66 W, 51 %",
+      "samples": 1200
+    },
+    {
+      "block": 2,
+      "telemetry_before": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064, NVIDIA GeForce RTX 2080 Ti, P2, 1920 MHz, 6800 MHz, 39, 165.53 W, 51 %",
+      "telemetry_after": "GPU-d1b82bfe-73db-7d85-16fa-2e38208c0064, NVIDIA GeForce RTX 2080 Ti, P2, 1920 MHz, 6800 MHz, 40, 101.01 W, 52 %",
+      "samples": 1200
+    }
+  ],
+  "simulation_service_ns": {
+    "FAST_FULL": 2098380,
+    "FAST_PREFIX": 1270917,
+    "FAST_SUFFIX": 1503422,
+    "ACCURATE": 3971982
+  },
+  "gpu_head_ns": 688051,
+  "inline_total_ns": 2774339,
+  "scope": "Same original 24 prepared inputs and batch1 sequential eager functions. GPU spans and paired host wall spans measured; H2D/D2H measured separately and included once in derived services. Excludes input preprocessing, network, queue and controller. No CUDA Graph, no policy simulation. Host wall contains event-record and completion synchronization overhead; it is reported separately, not added onto GPU spans. Simulation service uses the mean CUDA-event stage spans plus the mean measured transfers once; paired wall-clock spans are diagnostic, not another service surcharge. Effective contiguous suffix is rounded inline total minus rounded Prefix/Head."
+}

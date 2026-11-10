@@ -1,0 +1,125 @@
+{
+  "schema": "T016_locked_simulation_parameters_v1",
+  "decision_date": "2026-10-17",
+  "deadline_ns": 50000000,
+  "gpu_cards": 2,
+  "initial_fast": 1.0,
+  "allocation_grid": 0.01,
+  "minimum_fast_share": 0.1,
+  "minimum_accurate_share": 0.3,
+  "allocation_hysteresis_floor": 0.1,
+  "allocation_policies": {
+    "fixed_1a1f": "fixed 1Fast + 1Accurate on two nonpreemptive GPUs",
+    "qf4r_feedback": "dynamic on two GPUs, initially 1Fast + 1Accurate"
+  },
+  "gpu_service_ns": {
+    "FAST_FULL": 1982169,
+    "FAST_PREFIX": 1231710,
+    "FAST_SUFFIX": 1463564,
+    "ACCURATE": 3829280
+  },
+  "gpu_head_ns": 665957,
+  "local_probe_ns": 7408283,
+  "local_mid2_ns": 5394419,
+  "local_suffix_ns": {
+    "MID1": 8457632,
+    "MID2": 4677298
+  },
+  "local_full_two_probe_ns": 17480000,
+  "local_reference_scale": {
+    "numerator": 17480000,
+    "denominator": 45974430
+  },
+  "input_pool": {
+    "schema": "T016_correct_route_pool_v1",
+    "fractions": {
+      "Local": 0.75,
+      "Fast": 0.2,
+      "Accurate": 0.05
+    },
+    "local_quality_routing": "quality_first_eligible",
+    "designated_model_must_be_correct": true,
+    "scope": "Same outcome-and-route-conditioned pools for normal/high-load/recovery. Local members clean and correct; Fast only chosen by public probe routes and EARLY, correct; Accurate correct with Local/Fast ineligible at observed probes and Fast ineligible at EARLY. Truth only selects offline inputs; finite capacity can offload Local-type tasks."
+  },
+  "video_input": {
+    "streams_per_local": 1,
+    "normal_fps": 60,
+    "high_load_fps": 60,
+    "affected_nodes_count": 33,
+    "local_waiting_roots": 2,
+    "inference_interval": 0,
+    "scope": "33 independent periodic task sources at60/s throughout250s; no claim of physical multi-camera acquisition."
+  },
+  "provenance": {
+    "ACCURATE": "Selected ordinary eager inference without CUDA Graph on the same RTX2080Ti: EAGER measured compute + measured H2D/D2H, using existing matched input measurement.",
+    "Fast": "Ordinary EAGER full/Prefix/Head/contiguous chain from the same measurement. Continuous suffix is the inline-chain minus Prefix/Head increment. Includes device transfers once; excludes network and queue.",
+    "Local": "Reduced the full two-probe-plus-classifier total from 19.48ms to exactly 17.48ms. Each current Local stage scaled by 1748/1948 and rounded to integer ns; first-probe complete Local totals 15.865915ms. This is a chosen simulation service target, not a new physical camera measurement.",
+    "deadline": "Fixed original generation+50ms for the 495000-task demand-transfer main experiment.",
+    "parameter_changes": "Future GPU calibrations do not silently replace these locked simulation values; explicit change required. Raw historical measurements/results remain unchanged.",
+    "edge_timing_evidence": "evidence/calibration/ordinary_eager_2080ti_20261017.json",
+    "edge_timing_evidence_sha256": "5410bd9fbab20cc7ee579e0550f429b3abbe8a6f2af9603c9b8cc7bac4a926c4",
+    "original_measurement_sha256": "d16320a1c99abcde29ddbe0238872f96b9cbb5ed74a6ed5f438b933a3bf35d4a",
+    "previous_graph_parameters": "config/profiles/cuda_graph_parameters_20261015.json",
+    "timing_scope": "Existing batch1 FP32 ordinary eager CUDA-event spans, including host launch gaps within the event span; measured device transfers included once. Not a new host wall-clock end-to-end measurement. Network, queue, Python controller/dispatch, input preprocessing excluded. Same RTX2080Ti; no claim of weaker edge hardware."
+  },
+  "demand_transfer": {
+    "nodes": 33,
+    "rate_per_node": 60,
+    "duration_s": 250,
+    "tasks": 495000,
+    "arrival_phase": "reuse existing per-node seeded fractional phase",
+    "scenes": {
+      "N": {
+        "fractions": {
+          "Local": 0.75,
+          "Fast": 0.2,
+          "Accurate": 0.05
+        },
+        "seed": 2026101501
+      },
+      "A": {
+        "fractions": {
+          "Local": 0.63,
+          "Fast": 0.05,
+          "Accurate": 0.32
+        },
+        "seed": 2026101502
+      },
+      "F": {
+        "fractions": {
+          "Local": 0.5,
+          "Fast": 0.45,
+          "Accurate": 0.05
+        },
+        "seed": 2026101503
+      }
+    },
+    "phases": [
+      {
+        "name": "normal",
+        "scene": "N",
+        "start_s": 0,
+        "end_s": 50
+      },
+      {
+        "name": "accurate_increase",
+        "scene": "A",
+        "start_s": 50,
+        "end_s": 125
+      },
+      {
+        "name": "fast_increase",
+        "scene": "F",
+        "start_s": 125,
+        "end_s": 200
+      },
+      {
+        "name": "recovery",
+        "scene": "N",
+        "start_s": 200,
+        "end_s": 250
+      }
+    ]
+  },
+  "execution_mode": "EAGER"
+}

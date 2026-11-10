@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+literature_baselines/vendor/ramsis/

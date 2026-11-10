@@ -1,0 +1,113 @@
+{
+ "schema": "executor_end_to_end_latency_profile_v1",
+ "definition": "median of (actual independent return - controller dispatch) per batch kind and actual size",
+ "source_runs": {
+  "/home/wangzengyu/edge_paper/research_experiments/clra_autonomous_research/PRAA_M5_PILOT/validation/s0_normal_highload/EdgeServing": "762ef98c510b08b975e656b9e3bedf0041890595f4ca171990a46222e78512b9",
+  "/home/wangzengyu/edge_paper/research_experiments/clra_autonomous_research/PRAA_M5_PILOT/validation/s0_added_degraded_load/EdgeServing": "6d291142dd33c2ce27ae9205ab1bcf796479bfd193274d447caf61046553c255"
+ },
+ "method_independent": true,
+ "note": "Offline profile for profile-driven baselines (Symphony, Proteus); built from adapted EdgeServing runs only",
+ "profile": {
+  "ACCURATE/1": {
+   "median_ns": 5307104.5,
+   "samples": 7900
+  },
+  "ACCURATE/2": {
+   "median_ns": 5519387,
+   "samples": 21003
+  },
+  "ACCURATE/3": {
+   "median_ns": 6745338.0,
+   "samples": 7572
+  },
+  "ACCURATE/4": {
+   "median_ns": 8524639.0,
+   "samples": 2294
+  },
+  "ACCURATE/5": {
+   "median_ns": 10171070,
+   "samples": 465
+  },
+  "ACCURATE/6": {
+   "median_ns": 12052461,
+   "samples": 147
+  },
+  "ACCURATE/7": {
+   "median_ns": 13303650,
+   "samples": 31
+  },
+  "FAST_FULL/1": {
+   "median_ns": 3226651,
+   "samples": 44993
+  },
+  "FAST_FULL/2": {
+   "median_ns": 3430705.0,
+   "samples": 32290
+  },
+  "FAST_FULL/3": {
+   "median_ns": 3649482.5,
+   "samples": 15900
+  },
+  "FAST_FULL/4": {
+   "median_ns": 3905893,
+   "samples": 6373
+  },
+  "FAST_FULL/5": {
+   "median_ns": 4992896,
+   "samples": 2067
+  },
+  "FAST_FULL/6": {
+   "median_ns": 5640330,
+   "samples": 697
+  },
+  "FAST_FULL/7": {
+   "median_ns": 6210408.5,
+   "samples": 210
+  },
+  "FAST_FULL/8": {
+   "median_ns": 6762962,
+   "samples": 83
+  },
+  "FAST_PREFIX/1": {
+   "median_ns": 4203565,
+   "samples": 16083
+  },
+  "FAST_PREFIX/10": {
+   "median_ns": 8829153,
+   "samples": 55
+  },
+  "FAST_PREFIX/2": {
+   "median_ns": 4439282,
+   "samples": 18513
+  },
+  "FAST_PREFIX/3": {
+   "median_ns": 4671376,
+   "samples": 14733
+  },
+  "FAST_PREFIX/4": {
+   "median_ns": 4898987,
+   "samples": 10053
+  },
+  "FAST_PREFIX/5": {
+   "median_ns": 5516568.0,
+   "samples": 5346
+  },
+  "FAST_PREFIX/6": {
+   "median_ns": 6059248,
+   "samples": 2441
+  },
+  "FAST_PREFIX/7": {
+   "median_ns": 6592161,
+   "samples": 907
+  },
+  "FAST_PREFIX/8": {
+   "median_ns": 7143525,
+   "samples": 337
+  },
+  "FAST_PREFIX/9": {
+   "median_ns": 7929073,
+   "samples": 107
+  }
+ },
+ "content_sha256": "1a6a89cbc6b01cba879070308374cf3d803de92408493f236f69f6aa1f45c37e"
+}

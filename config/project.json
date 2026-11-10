@@ -1,0 +1,11 @@
+{
+  "ssh_host": "edge-server",
+  "server_project": "/home/wangzengyu/edge_paper/project",
+  "server_python": "/home/wangzengyu/edge_paper/environments/torch/bin/python",
+  "public_lock": "/home/wangzengyu/edge_paper/experiments/v20_two_gpu_validation_20261004/.live_two_gpu.lock",
+  "baseline_task": "T012",
+  "baseline_delivery": "submitted/partial/needs_attention",
+  "baseline_joint_closed": true,
+  "baseline_server_archive": "/home/wangzengyu/edge_paper/experiments/T012_closed_loop_repair_20261007",
+  "baseline_local_archive": "archive/T012_closed_loop_repair_20261007"
+}
